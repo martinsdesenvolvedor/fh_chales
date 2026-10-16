@@ -1,0 +1,353 @@
+{
+  "navigation": [
+    {
+      "width": 1920,
+      "route": "/sobre",
+      "href": "/sobre",
+      "current": "page"
+    },
+    {
+      "width": 1920,
+      "route": "/servicos",
+      "href": "/servicos",
+      "current": "page"
+    },
+    {
+      "width": 1920,
+      "route": "/servicos/cabanas",
+      "href": "/servicos",
+      "current": "location"
+    },
+    {
+      "width": 1920,
+      "route": "/projetos/chale-madeira-40m2",
+      "href": "/projetos",
+      "current": "location"
+    },
+    {
+      "width": 1920,
+      "route": "/faq",
+      "href": "/faq",
+      "current": "page"
+    },
+    {
+      "width": 1366,
+      "route": "/sobre",
+      "href": "/sobre",
+      "current": "page"
+    },
+    {
+      "width": 1366,
+      "route": "/servicos",
+      "href": "/servicos",
+      "current": "page"
+    },
+    {
+      "width": 1366,
+      "route": "/servicos/cabanas",
+      "href": "/servicos",
+      "current": "location"
+    },
+    {
+      "width": 1366,
+      "route": "/projetos/chale-madeira-40m2",
+      "href": "/projetos",
+      "current": "location"
+    },
+    {
+      "width": 1366,
+      "route": "/faq",
+      "href": "/faq",
+      "current": "page"
+    },
+    {
+      "width": 390,
+      "route": "/sobre",
+      "href": "/sobre",
+      "current": "page"
+    },
+    {
+      "width": 390,
+      "route": "/servicos",
+      "href": "/servicos",
+      "current": "page"
+    },
+    {
+      "width": 390,
+      "route": "/servicos/cabanas",
+      "href": "/servicos",
+      "current": "location"
+    },
+    {
+      "width": 390,
+      "route": "/projetos/chale-madeira-40m2",
+      "href": "/projetos",
+      "current": "location"
+    },
+    {
+      "width": 390,
+      "route": "/faq",
+      "href": "/faq",
+      "current": "page"
+    }
+  ],
+  "spacing": [
+    {
+      "width": 1920,
+      "sectionX": 0,
+      "sectionWidth": 1920,
+      "textX": 120,
+      "imageRight": 1800,
+      "bg": "rgb(255, 255, 255)",
+      "overflow": 0
+    },
+    {
+      "width": 1366,
+      "sectionX": 0,
+      "sectionWidth": 1366,
+      "textX": 60,
+      "imageRight": 1306,
+      "bg": "rgb(255, 255, 255)",
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "sectionX": 0,
+      "sectionWidth": 390,
+      "textX": 20,
+      "imageRight": 370,
+      "bg": "rgb(255, 255, 255)",
+      "overflow": 0
+    }
+  ],
+  "collage": [
+    {
+      "width": 1920,
+      "early": [
+        {
+          "x": 171.10885620117188,
+          "w": 300,
+          "y": 827.752685546875,
+          "h": 175,
+          "distance": 638.8911437988281
+        },
+        {
+          "x": 1448.89111328125,
+          "w": 300,
+          "y": 827.752685546875,
+          "h": 175,
+          "distance": 638.89111328125
+        },
+        {
+          "x": 1500.0062255859375,
+          "w": 420,
+          "y": 1500.265625,
+          "h": 180,
+          "distance": 750.0062255859375
+        }
+      ],
+      "middle": [
+        {
+          "x": 480,
+          "w": 300,
+          "y": 135.265625,
+          "h": 175,
+          "distance": 330
+        },
+        {
+          "x": 1140,
+          "w": 300,
+          "y": 135.265625,
+          "h": 175,
+          "distance": 330
+        },
+        {
+          "x": 1309.92626953125,
+          "w": 420,
+          "y": 807.265625,
+          "h": 180,
+          "distance": 559.92626953125
+        }
+      ],
+      "late": [
+        {
+          "x": 480,
+          "w": 300,
+          "y": -443.734375,
+          "h": 175,
+          "distance": 330
+        },
+        {
+          "x": 1140,
+          "w": 300,
+          "y": -443.734375,
+          "h": 175,
+          "distance": 330
+        },
+        {
+          "x": 929.7662353515625,
+          "w": 420,
+          "y": 192.265625,
+          "h": 180,
+          "distance": 179.7662353515625
+        }
+      ]
+    },
+    {
+      "width": 1366,
+      "early": [
+        {
+          "x": 121.68739318847656,
+          "w": 245.87498474121094,
+          "y": 562.67822265625,
+          "h": 175,
+          "distance": 438.37511444091797
+        },
+        {
+          "x": 998.4376220703125,
+          "w": 245.875,
+          "y": 562.67822265625,
+          "h": 175,
+          "distance": 438.3751220703125
+        },
+        {
+          "x": 983.545654296875,
+          "w": 382.46875,
+          "y": 1235.1875,
+          "h": 180,
+          "distance": 491.780029296875
+        }
+      ],
+      "middle": [
+        {
+          "x": 341.49688720703125,
+          "w": 245.875,
+          "y": -20.8125,
+          "h": 175,
+          "distance": 218.56561279296875
+        },
+        {
+          "x": 778.6281127929688,
+          "w": 245.87506103515625,
+          "y": -20.8125,
+          "h": 175,
+          "distance": 218.56564331054688
+        },
+        {
+          "x": 848.3116455078125,
+          "w": 382.46875,
+          "y": 651.1875,
+          "h": 180,
+          "distance": 356.5460205078125
+        }
+      ],
+      "late": [
+        {
+          "x": 341.49688720703125,
+          "w": 245.875,
+          "y": -506.8125,
+          "h": 175,
+          "distance": 218.56561279296875
+        },
+        {
+          "x": 778.6281127929688,
+          "w": 245.87506103515625,
+          "y": -506.8125,
+          "h": 175,
+          "distance": 218.56564331054688
+        },
+        {
+          "x": 577.5093994140625,
+          "w": 382.46875,
+          "y": 129.14300537109375,
+          "h": 180,
+          "distance": 85.7437744140625
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "early": [
+        {
+          "x": 15.143699645996094,
+          "w": 117.00000762939453,
+          "y": 638.2528686523438,
+          "h": 124.99993896484375,
+          "distance": 121.35629653930664
+        },
+        {
+          "x": 257.8562927246094,
+          "w": 117,
+          "y": 638.2528686523438,
+          "h": 124.99993896484375,
+          "distance": 121.35629272460938
+        },
+        {
+          "x": 237.9187469482422,
+          "w": 171.59376525878906,
+          "y": 1285.734375,
+          "h": 135,
+          "distance": 128.71562957763672
+        }
+      ],
+      "middle": [
+        {
+          "x": 78,
+          "w": 117,
+          "y": 51.734375,
+          "h": 125,
+          "distance": 58.5
+        },
+        {
+          "x": 195,
+          "w": 117,
+          "y": 51.734375,
+          "h": 125,
+          "distance": 58.5
+        },
+        {
+          "x": 199.30874633789062,
+          "w": 171.59375,
+          "y": 698.734375,
+          "h": 135,
+          "distance": 90.10562133789062
+        }
+      ],
+      "late": [
+        {
+          "x": 78,
+          "w": 117,
+          "y": -435.265625,
+          "h": 125,
+          "distance": 58.5
+        },
+        {
+          "x": 195,
+          "w": 117,
+          "y": -435.265625,
+          "h": 125,
+          "distance": 58.5
+        },
+        {
+          "x": 122.1204605102539,
+          "w": 171.59375,
+          "y": 175.7491455078125,
+          "h": 135,
+          "distance": 12.917335510253906
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "route": "/projetos/chale-madeira-40m2",
+      "title": "CHALÉ DE MADEIRA DE 40 M²."
+    },
+    {
+      "route": "/projetos/chale-entregue",
+      "title": "UM REFÚGIO EM MADEIRA."
+    }
+  ],
+  "errors": [],
+  "listing": 8
+}

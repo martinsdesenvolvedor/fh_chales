@@ -1,6 +1,8 @@
 # FH Chalés — refinamento e navegação
 
-> Revisão mais recente: [auditoria complementar, conteúdo e comportamento de rolagem](AUDITORIA-MODU.md). O documento abaixo registra a etapa inicial.
+> Últimos ajustes: [margens, menu ativo, colagem e novas publicações](AJUSTES-SERVICOS.md).
+
+> Revisão anterior: [auditoria complementar, conteúdo e comportamento de rolagem](AUDITORIA-MODU.md). O documento abaixo registra a etapa inicial.
 
 Revisão em 16/10/2026. Projeto existente: `fh_chales`. Preview local: http://127.0.0.1:4183/ . Alterações não publicadas.
 
