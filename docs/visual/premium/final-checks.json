@@ -1,0 +1,416 @@
+{
+  "routes": [
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/servicos"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/como-funciona"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/faq"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/projetos/chale-madeira-40m2"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/servicos"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/como-funciona"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/faq"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/projetos/chale-madeira-40m2"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/servicos"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/como-funciona"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/faq"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/projetos/chale-madeira-40m2"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/servicos"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/como-funciona"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/faq"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/projetos/chale-madeira-40m2"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/servicos"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/como-funciona"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/faq"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/projetos/chale-madeira-40m2"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/servicos"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/como-funciona"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/faq"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/projetos/chale-madeira-40m2"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/servicos"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/como-funciona"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/faq"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/projetos/chale-madeira-40m2"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/servicos"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/como-funciona"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/faq"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/projetos/chale-madeira-40m2"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/servicos"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/como-funciona"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/faq"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/projetos/chale-madeira-40m2"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/servicos"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/como-funciona"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/faq"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/projetos/chale-madeira-40m2"
+    }
+  ],
+  "captures": [
+    {
+      "width": 1366,
+      "route": "/"
+    },
+    {
+      "width": 1366,
+      "route": "/servicos"
+    },
+    {
+      "width": 1366,
+      "route": "/como-funciona"
+    },
+    {
+      "width": 390,
+      "route": "/"
+    },
+    {
+      "width": 390,
+      "route": "/servicos"
+    },
+    {
+      "width": 390,
+      "route": "/como-funciona"
+    }
+  ],
+  "accessibility": [
+    {
+      "route": "/servicos",
+      "violations": []
+    },
+    {
+      "route": "/como-funciona",
+      "violations": []
+    },
+    {
+      "route": "/faq",
+      "violations": []
+    }
+  ],
+  "pinning": [
+    {
+      "width": 1366,
+      "route": "/",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 1366,
+      "route": "/sobre",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 1366,
+      "route": "/servicos",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 1366,
+      "route": "/servicos/cabanas",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 1366,
+      "route": "/projetos",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 1366,
+      "route": "/como-funciona",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 1366,
+      "route": "/contato",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 1366,
+      "route": "/faq",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 1366,
+      "route": "/equipe",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 1366,
+      "route": "/planejador",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 390,
+      "route": "/sobre",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 390,
+      "route": "/servicos",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 390,
+      "route": "/servicos/cabanas",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 390,
+      "route": "/projetos",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 390,
+      "route": "/como-funciona",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 390,
+      "route": "/contato",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 390,
+      "route": "/faq",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 390,
+      "route": "/equipe",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "width": 390,
+      "route": "/planejador",
+      "before": 0,
+      "after": 0
+    }
+  ]
+}

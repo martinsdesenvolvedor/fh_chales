@@ -1,0 +1,3095 @@
+{
+  "routes": [
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/",
+      "title": "Chalés, cabanas e casas de alto padrão | FH Chalés",
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "description": "Conheça a FH Chalés, explore projetos em madeira, serviços e possibilidades para o seu refúgio.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/sobre",
+      "title": "Sobre a FH Chalés | FH Chalés",
+      "h1": "SOBRE A FH CHALÉS",
+      "description": "Conheça a proposta da FH Chalés: arquitetura, madeira, paisagem e cuidado com os ambientes.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/como-funciona",
+      "title": "Como funciona | FH Chalés",
+      "h1": "COMO FUNCIONA",
+      "description": "Conheça as etapas de planejamento, escolhas, construção e entrega apresentadas pela FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/projetos",
+      "title": "Nossos projetos | FH Chalés",
+      "h1": "NOSSOS PROJETOS",
+      "description": "Explore o portfólio da FH Chalés, com registros da empresa, fotografias, detalhes e referências de arquitetura.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/servicos",
+      "title": "Nossos serviços | FH Chalés",
+      "h1": "NOSSOS SERVIÇOS",
+      "description": "Conheça as possibilidades de chalés, cabanas, casas, projetos personalizados, acabamentos e ampliações.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/contato",
+      "title": "Vamos construir seu próximo capítulo | FH Chalés",
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "description": "Converse com a FH Chalés pelo WhatsApp e compartilhe as ideias para o seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/faq",
+      "title": "Perguntas frequentes | FH Chalés",
+      "h1": "PERGUNTAS FREQUENTES",
+      "description": "Encontre respostas para as dúvidas sobre projetos, terreno, orçamento e atendimento da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/planejador",
+      "title": "Planeje seu refúgio | FH Chalés",
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "description": "Explore estilos e organize as referências do seu projeto para conversar com a FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/equipe",
+      "title": "Pessoas que dão forma às ideias | FH Chalés",
+      "h1": "PESSOAS QUE DÃO FORMA ÀS IDEIAS",
+      "description": "Conheça a apresentação demonstrativa dos perfis e áreas de atuação da equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/projetos/chale-em-madeira",
+      "title": "Madeira, luz e acolhimento. | FH Chalés",
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "description": "A estrutura em A, a transparência da fachada e a iluminação quente revelam um olhar para os detalhes. Um registro publicado pela FH Chalés, em que a madeira aproxima a arquitetura da experiência de estar em casa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/projetos/interiores-em-madeira",
+      "title": "O aconchego está nos detalhes. | FH Chalés",
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "description": "Texturas naturais, espaços de descanso e a presença da madeira. Um olhar para o interior divulgado pela FH Chalés e para os elementos que ajudam a construir uma atmosfera acolhedora.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/projetos/chale-madeira-40m2",
+      "title": "Chalé de madeira de 40 m². | FH Chalés",
+      "h1": "CHALÉ DE MADEIRA DE 40 M².",
+      "description": "Um projeto apresentado pela FH Chalés com 40 m², banheiro em alvenaria e dois quartos no piso superior, sendo um com sacada. A escada modelo Santos Dumont aproveita o espaço e conecta os ambientes de madeira.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/projetos/chale-entregue",
+      "title": "Um refúgio em madeira. | FH Chalés",
+      "h1": "UM REFÚGIO EM MADEIRA.",
+      "description": "Um chalé entregue a cliente e apresentado em vídeo pela FH Chalés. O registro mostra a madeira presente nos ambientes, espaços de descanso e a integração com a área externa. Uma referência real para conversar sobre materiais, ambientes e detalhes do seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/projetos/refugio-araucaria",
+      "title": "Refúgio Araucária. | FH Chalés",
+      "h1": "REFÚGIO ARAUCÁRIA.",
+      "description": "Um estudo de chalé em A com pé-direito generoso, grandes aberturas e uma relação contínua entre estar e deck. A madeira aparece como estrutura e textura, enquanto a paisagem orienta as principais vistas.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/projetos/cabana-horizonte",
+      "title": "Cabana Horizonte. | FH Chalés",
+      "h1": "CABANA HORIZONTE.",
+      "description": "Uma proposta de linhas contemporâneas e distribuição essencial. O estar integrado, a luz natural e o deck ampliam a experiência dos ambientes sem perder a escala acolhedora de uma cabana.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/projetos/casa-do-bosque",
+      "title": "Casa do Bosque. | FH Chalés",
+      "h1": "CASA DO BOSQUE.",
+      "description": "O encontro entre convivência e privacidade. Este estudo explora ambientes integrados, superfícies naturais e espaços para receber, com atenção à circulação e aos diferentes momentos do dia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/projetos/mirante-da-serra",
+      "title": "Mirante da Serra. | FH Chalés",
+      "h1": "MIRANTE DA SERRA.",
+      "description": "Um convite para viver a paisagem. Deck, áreas de descanso e continuidade visual entre interior e exterior dão forma a esta referência para quem deseja uma rotina mais próxima da natureza.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/servicos/chales",
+      "title": "Construção de chalés | FH Chalés",
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "description": "Do formato da cobertura à relação com a paisagem, um chalé começa com as escolhas de quem vai viver nele. Converse com a FH Chalés sobre seu terreno, seu estilo e os ambientes que deseja construir.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/servicos/cabanas",
+      "title": "Cabanas de alto padrão | FH Chalés",
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "description": "Uma cabana pode ser compacta e, ao mesmo tempo, generosa nas experiências. A conversa inicial ajuda a organizar a distribuição dos ambientes, as aberturas e os detalhes que tornam o espaço seu.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/servicos/casas",
+      "title": "Casas com identidade | FH Chalés",
+      "h1": "CASAS COM IDENTIDADE",
+      "description": "A FH Chalés se apresenta como construtora de cabanas, chalés e casas de alto padrão. Compartilhe suas referências e necessidades para conhecer as possibilidades de construção e os próximos passos com a equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/servicos/projetos-personalizados",
+      "title": "Projetos personalizados | FH Chalés",
+      "h1": "PROJETOS PERSONALIZADOS",
+      "description": "Da primeira lista de desejos à definição dos ambientes, o projeto ganha direção quando suas referências são organizadas. Distribuição, materiais, aberturas e relação com o terreno são discutidos para construir um escopo com identidade.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/servicos/acabamentos-e-ampliacoes",
+      "title": "Acabamentos e ampliações | FH Chalés",
+      "h1": "ACABAMENTOS E AMPLIAÇÕES",
+      "description": "Revestimentos, decks e ambientes de convivência transformam a experiência de estar em casa. Esta frente apresenta possibilidades de acabamento e expansão para conversar com a equipe e avaliar o que faz sentido para a construção.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/equipe/felipe-ramos",
+      "title": "Felipe Ramos | FH Chalés",
+      "h1": "FELIPE RAMOS",
+      "description": "Transformar referências em uma conversa clara é o primeiro passo. Felipe representa o atendimento que escuta, organiza as prioridades e acompanha cada nova ideia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/equipe/helena-martins",
+      "title": "Helena Martins | FH Chalés",
+      "h1": "HELENA MARTINS",
+      "description": "Helena representa o olhar para a luz, os materiais e a vida que acontece dentro da casa. Seu foco é conectar as escolhas de cada ambiente ao jeito de morar de cada pessoa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/equipe/lucas-andrade",
+      "title": "Lucas Andrade | FH Chalés",
+      "h1": "LUCAS ANDRADE",
+      "description": "Lucas representa a atenção ao caminho entre o desenho e o espaço construído. Organização das etapas, cuidado com os detalhes e uma comunicação próxima fazem parte desse trabalho.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/nao-existe",
+      "title": "Página não encontrada | FH Chalés",
+      "h1": "ESSE CAMINHO AINDA NÃO EXISTE.",
+      "description": "Página não encontrada. Conheça os projetos e serviços da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/",
+      "title": "Chalés, cabanas e casas de alto padrão | FH Chalés",
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "description": "Conheça a FH Chalés, explore projetos em madeira, serviços e possibilidades para o seu refúgio.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/sobre",
+      "title": "Sobre a FH Chalés | FH Chalés",
+      "h1": "SOBRE A FH CHALÉS",
+      "description": "Conheça a proposta da FH Chalés: arquitetura, madeira, paisagem e cuidado com os ambientes.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/como-funciona",
+      "title": "Como funciona | FH Chalés",
+      "h1": "COMO FUNCIONA",
+      "description": "Conheça as etapas de planejamento, escolhas, construção e entrega apresentadas pela FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/projetos",
+      "title": "Nossos projetos | FH Chalés",
+      "h1": "NOSSOS PROJETOS",
+      "description": "Explore o portfólio da FH Chalés, com registros da empresa, fotografias, detalhes e referências de arquitetura.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/servicos",
+      "title": "Nossos serviços | FH Chalés",
+      "h1": "NOSSOS SERVIÇOS",
+      "description": "Conheça as possibilidades de chalés, cabanas, casas, projetos personalizados, acabamentos e ampliações.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/contato",
+      "title": "Vamos construir seu próximo capítulo | FH Chalés",
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "description": "Converse com a FH Chalés pelo WhatsApp e compartilhe as ideias para o seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/faq",
+      "title": "Perguntas frequentes | FH Chalés",
+      "h1": "PERGUNTAS FREQUENTES",
+      "description": "Encontre respostas para as dúvidas sobre projetos, terreno, orçamento e atendimento da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/planejador",
+      "title": "Planeje seu refúgio | FH Chalés",
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "description": "Explore estilos e organize as referências do seu projeto para conversar com a FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/equipe",
+      "title": "Pessoas que dão forma às ideias | FH Chalés",
+      "h1": "PESSOAS QUE DÃO FORMA ÀS IDEIAS",
+      "description": "Conheça a apresentação demonstrativa dos perfis e áreas de atuação da equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/projetos/chale-em-madeira",
+      "title": "Madeira, luz e acolhimento. | FH Chalés",
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "description": "A estrutura em A, a transparência da fachada e a iluminação quente revelam um olhar para os detalhes. Um registro publicado pela FH Chalés, em que a madeira aproxima a arquitetura da experiência de estar em casa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/projetos/interiores-em-madeira",
+      "title": "O aconchego está nos detalhes. | FH Chalés",
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "description": "Texturas naturais, espaços de descanso e a presença da madeira. Um olhar para o interior divulgado pela FH Chalés e para os elementos que ajudam a construir uma atmosfera acolhedora.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/projetos/chale-madeira-40m2",
+      "title": "Chalé de madeira de 40 m². | FH Chalés",
+      "h1": "CHALÉ DE MADEIRA DE 40 M².",
+      "description": "Um projeto apresentado pela FH Chalés com 40 m², banheiro em alvenaria e dois quartos no piso superior, sendo um com sacada. A escada modelo Santos Dumont aproveita o espaço e conecta os ambientes de madeira.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/projetos/chale-entregue",
+      "title": "Um refúgio em madeira. | FH Chalés",
+      "h1": "UM REFÚGIO EM MADEIRA.",
+      "description": "Um chalé entregue a cliente e apresentado em vídeo pela FH Chalés. O registro mostra a madeira presente nos ambientes, espaços de descanso e a integração com a área externa. Uma referência real para conversar sobre materiais, ambientes e detalhes do seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/projetos/refugio-araucaria",
+      "title": "Refúgio Araucária. | FH Chalés",
+      "h1": "REFÚGIO ARAUCÁRIA.",
+      "description": "Um estudo de chalé em A com pé-direito generoso, grandes aberturas e uma relação contínua entre estar e deck. A madeira aparece como estrutura e textura, enquanto a paisagem orienta as principais vistas.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/projetos/cabana-horizonte",
+      "title": "Cabana Horizonte. | FH Chalés",
+      "h1": "CABANA HORIZONTE.",
+      "description": "Uma proposta de linhas contemporâneas e distribuição essencial. O estar integrado, a luz natural e o deck ampliam a experiência dos ambientes sem perder a escala acolhedora de uma cabana.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/projetos/casa-do-bosque",
+      "title": "Casa do Bosque. | FH Chalés",
+      "h1": "CASA DO BOSQUE.",
+      "description": "O encontro entre convivência e privacidade. Este estudo explora ambientes integrados, superfícies naturais e espaços para receber, com atenção à circulação e aos diferentes momentos do dia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/projetos/mirante-da-serra",
+      "title": "Mirante da Serra. | FH Chalés",
+      "h1": "MIRANTE DA SERRA.",
+      "description": "Um convite para viver a paisagem. Deck, áreas de descanso e continuidade visual entre interior e exterior dão forma a esta referência para quem deseja uma rotina mais próxima da natureza.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/servicos/chales",
+      "title": "Construção de chalés | FH Chalés",
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "description": "Do formato da cobertura à relação com a paisagem, um chalé começa com as escolhas de quem vai viver nele. Converse com a FH Chalés sobre seu terreno, seu estilo e os ambientes que deseja construir.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/servicos/cabanas",
+      "title": "Cabanas de alto padrão | FH Chalés",
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "description": "Uma cabana pode ser compacta e, ao mesmo tempo, generosa nas experiências. A conversa inicial ajuda a organizar a distribuição dos ambientes, as aberturas e os detalhes que tornam o espaço seu.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/servicos/casas",
+      "title": "Casas com identidade | FH Chalés",
+      "h1": "CASAS COM IDENTIDADE",
+      "description": "A FH Chalés se apresenta como construtora de cabanas, chalés e casas de alto padrão. Compartilhe suas referências e necessidades para conhecer as possibilidades de construção e os próximos passos com a equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/servicos/projetos-personalizados",
+      "title": "Projetos personalizados | FH Chalés",
+      "h1": "PROJETOS PERSONALIZADOS",
+      "description": "Da primeira lista de desejos à definição dos ambientes, o projeto ganha direção quando suas referências são organizadas. Distribuição, materiais, aberturas e relação com o terreno são discutidos para construir um escopo com identidade.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/servicos/acabamentos-e-ampliacoes",
+      "title": "Acabamentos e ampliações | FH Chalés",
+      "h1": "ACABAMENTOS E AMPLIAÇÕES",
+      "description": "Revestimentos, decks e ambientes de convivência transformam a experiência de estar em casa. Esta frente apresenta possibilidades de acabamento e expansão para conversar com a equipe e avaliar o que faz sentido para a construção.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/equipe/felipe-ramos",
+      "title": "Felipe Ramos | FH Chalés",
+      "h1": "FELIPE RAMOS",
+      "description": "Transformar referências em uma conversa clara é o primeiro passo. Felipe representa o atendimento que escuta, organiza as prioridades e acompanha cada nova ideia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/equipe/helena-martins",
+      "title": "Helena Martins | FH Chalés",
+      "h1": "HELENA MARTINS",
+      "description": "Helena representa o olhar para a luz, os materiais e a vida que acontece dentro da casa. Seu foco é conectar as escolhas de cada ambiente ao jeito de morar de cada pessoa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/equipe/lucas-andrade",
+      "title": "Lucas Andrade | FH Chalés",
+      "h1": "LUCAS ANDRADE",
+      "description": "Lucas representa a atenção ao caminho entre o desenho e o espaço construído. Organização das etapas, cuidado com os detalhes e uma comunicação próxima fazem parte desse trabalho.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/nao-existe",
+      "title": "Página não encontrada | FH Chalés",
+      "h1": "ESSE CAMINHO AINDA NÃO EXISTE.",
+      "description": "Página não encontrada. Conheça os projetos e serviços da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/",
+      "title": "Chalés, cabanas e casas de alto padrão | FH Chalés",
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "description": "Conheça a FH Chalés, explore projetos em madeira, serviços e possibilidades para o seu refúgio.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/sobre",
+      "title": "Sobre a FH Chalés | FH Chalés",
+      "h1": "SOBRE A FH CHALÉS",
+      "description": "Conheça a proposta da FH Chalés: arquitetura, madeira, paisagem e cuidado com os ambientes.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/como-funciona",
+      "title": "Como funciona | FH Chalés",
+      "h1": "COMO FUNCIONA",
+      "description": "Conheça as etapas de planejamento, escolhas, construção e entrega apresentadas pela FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/projetos",
+      "title": "Nossos projetos | FH Chalés",
+      "h1": "NOSSOS PROJETOS",
+      "description": "Explore o portfólio da FH Chalés, com registros da empresa, fotografias, detalhes e referências de arquitetura.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/servicos",
+      "title": "Nossos serviços | FH Chalés",
+      "h1": "NOSSOS SERVIÇOS",
+      "description": "Conheça as possibilidades de chalés, cabanas, casas, projetos personalizados, acabamentos e ampliações.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/contato",
+      "title": "Vamos construir seu próximo capítulo | FH Chalés",
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "description": "Converse com a FH Chalés pelo WhatsApp e compartilhe as ideias para o seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/faq",
+      "title": "Perguntas frequentes | FH Chalés",
+      "h1": "PERGUNTAS FREQUENTES",
+      "description": "Encontre respostas para as dúvidas sobre projetos, terreno, orçamento e atendimento da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/planejador",
+      "title": "Planeje seu refúgio | FH Chalés",
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "description": "Explore estilos e organize as referências do seu projeto para conversar com a FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/equipe",
+      "title": "Pessoas que dão forma às ideias | FH Chalés",
+      "h1": "PESSOAS QUE DÃO FORMA ÀS IDEIAS",
+      "description": "Conheça a apresentação demonstrativa dos perfis e áreas de atuação da equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/projetos/chale-em-madeira",
+      "title": "Madeira, luz e acolhimento. | FH Chalés",
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "description": "A estrutura em A, a transparência da fachada e a iluminação quente revelam um olhar para os detalhes. Um registro publicado pela FH Chalés, em que a madeira aproxima a arquitetura da experiência de estar em casa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/projetos/interiores-em-madeira",
+      "title": "O aconchego está nos detalhes. | FH Chalés",
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "description": "Texturas naturais, espaços de descanso e a presença da madeira. Um olhar para o interior divulgado pela FH Chalés e para os elementos que ajudam a construir uma atmosfera acolhedora.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/projetos/chale-madeira-40m2",
+      "title": "Chalé de madeira de 40 m². | FH Chalés",
+      "h1": "CHALÉ DE MADEIRA DE 40 M².",
+      "description": "Um projeto apresentado pela FH Chalés com 40 m², banheiro em alvenaria e dois quartos no piso superior, sendo um com sacada. A escada modelo Santos Dumont aproveita o espaço e conecta os ambientes de madeira.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/projetos/chale-entregue",
+      "title": "Um refúgio em madeira. | FH Chalés",
+      "h1": "UM REFÚGIO EM MADEIRA.",
+      "description": "Um chalé entregue a cliente e apresentado em vídeo pela FH Chalés. O registro mostra a madeira presente nos ambientes, espaços de descanso e a integração com a área externa. Uma referência real para conversar sobre materiais, ambientes e detalhes do seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/projetos/refugio-araucaria",
+      "title": "Refúgio Araucária. | FH Chalés",
+      "h1": "REFÚGIO ARAUCÁRIA.",
+      "description": "Um estudo de chalé em A com pé-direito generoso, grandes aberturas e uma relação contínua entre estar e deck. A madeira aparece como estrutura e textura, enquanto a paisagem orienta as principais vistas.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/projetos/cabana-horizonte",
+      "title": "Cabana Horizonte. | FH Chalés",
+      "h1": "CABANA HORIZONTE.",
+      "description": "Uma proposta de linhas contemporâneas e distribuição essencial. O estar integrado, a luz natural e o deck ampliam a experiência dos ambientes sem perder a escala acolhedora de uma cabana.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/projetos/casa-do-bosque",
+      "title": "Casa do Bosque. | FH Chalés",
+      "h1": "CASA DO BOSQUE.",
+      "description": "O encontro entre convivência e privacidade. Este estudo explora ambientes integrados, superfícies naturais e espaços para receber, com atenção à circulação e aos diferentes momentos do dia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/projetos/mirante-da-serra",
+      "title": "Mirante da Serra. | FH Chalés",
+      "h1": "MIRANTE DA SERRA.",
+      "description": "Um convite para viver a paisagem. Deck, áreas de descanso e continuidade visual entre interior e exterior dão forma a esta referência para quem deseja uma rotina mais próxima da natureza.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/servicos/chales",
+      "title": "Construção de chalés | FH Chalés",
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "description": "Do formato da cobertura à relação com a paisagem, um chalé começa com as escolhas de quem vai viver nele. Converse com a FH Chalés sobre seu terreno, seu estilo e os ambientes que deseja construir.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/servicos/cabanas",
+      "title": "Cabanas de alto padrão | FH Chalés",
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "description": "Uma cabana pode ser compacta e, ao mesmo tempo, generosa nas experiências. A conversa inicial ajuda a organizar a distribuição dos ambientes, as aberturas e os detalhes que tornam o espaço seu.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/servicos/casas",
+      "title": "Casas com identidade | FH Chalés",
+      "h1": "CASAS COM IDENTIDADE",
+      "description": "A FH Chalés se apresenta como construtora de cabanas, chalés e casas de alto padrão. Compartilhe suas referências e necessidades para conhecer as possibilidades de construção e os próximos passos com a equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/servicos/projetos-personalizados",
+      "title": "Projetos personalizados | FH Chalés",
+      "h1": "PROJETOS PERSONALIZADOS",
+      "description": "Da primeira lista de desejos à definição dos ambientes, o projeto ganha direção quando suas referências são organizadas. Distribuição, materiais, aberturas e relação com o terreno são discutidos para construir um escopo com identidade.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/servicos/acabamentos-e-ampliacoes",
+      "title": "Acabamentos e ampliações | FH Chalés",
+      "h1": "ACABAMENTOS E AMPLIAÇÕES",
+      "description": "Revestimentos, decks e ambientes de convivência transformam a experiência de estar em casa. Esta frente apresenta possibilidades de acabamento e expansão para conversar com a equipe e avaliar o que faz sentido para a construção.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/equipe/felipe-ramos",
+      "title": "Felipe Ramos | FH Chalés",
+      "h1": "FELIPE RAMOS",
+      "description": "Transformar referências em uma conversa clara é o primeiro passo. Felipe representa o atendimento que escuta, organiza as prioridades e acompanha cada nova ideia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/equipe/helena-martins",
+      "title": "Helena Martins | FH Chalés",
+      "h1": "HELENA MARTINS",
+      "description": "Helena representa o olhar para a luz, os materiais e a vida que acontece dentro da casa. Seu foco é conectar as escolhas de cada ambiente ao jeito de morar de cada pessoa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/equipe/lucas-andrade",
+      "title": "Lucas Andrade | FH Chalés",
+      "h1": "LUCAS ANDRADE",
+      "description": "Lucas representa a atenção ao caminho entre o desenho e o espaço construído. Organização das etapas, cuidado com os detalhes e uma comunicação próxima fazem parte desse trabalho.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/nao-existe",
+      "title": "Página não encontrada | FH Chalés",
+      "h1": "ESSE CAMINHO AINDA NÃO EXISTE.",
+      "description": "Página não encontrada. Conheça os projetos e serviços da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/",
+      "title": "Chalés, cabanas e casas de alto padrão | FH Chalés",
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "description": "Conheça a FH Chalés, explore projetos em madeira, serviços e possibilidades para o seu refúgio.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/sobre",
+      "title": "Sobre a FH Chalés | FH Chalés",
+      "h1": "SOBRE A FH CHALÉS",
+      "description": "Conheça a proposta da FH Chalés: arquitetura, madeira, paisagem e cuidado com os ambientes.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/como-funciona",
+      "title": "Como funciona | FH Chalés",
+      "h1": "COMO FUNCIONA",
+      "description": "Conheça as etapas de planejamento, escolhas, construção e entrega apresentadas pela FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/projetos",
+      "title": "Nossos projetos | FH Chalés",
+      "h1": "NOSSOS PROJETOS",
+      "description": "Explore o portfólio da FH Chalés, com registros da empresa, fotografias, detalhes e referências de arquitetura.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/servicos",
+      "title": "Nossos serviços | FH Chalés",
+      "h1": "NOSSOS SERVIÇOS",
+      "description": "Conheça as possibilidades de chalés, cabanas, casas, projetos personalizados, acabamentos e ampliações.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/contato",
+      "title": "Vamos construir seu próximo capítulo | FH Chalés",
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "description": "Converse com a FH Chalés pelo WhatsApp e compartilhe as ideias para o seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/faq",
+      "title": "Perguntas frequentes | FH Chalés",
+      "h1": "PERGUNTAS FREQUENTES",
+      "description": "Encontre respostas para as dúvidas sobre projetos, terreno, orçamento e atendimento da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/planejador",
+      "title": "Planeje seu refúgio | FH Chalés",
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "description": "Explore estilos e organize as referências do seu projeto para conversar com a FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/equipe",
+      "title": "Pessoas que dão forma às ideias | FH Chalés",
+      "h1": "PESSOAS QUE DÃO FORMA ÀS IDEIAS",
+      "description": "Conheça a apresentação demonstrativa dos perfis e áreas de atuação da equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/projetos/chale-em-madeira",
+      "title": "Madeira, luz e acolhimento. | FH Chalés",
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "description": "A estrutura em A, a transparência da fachada e a iluminação quente revelam um olhar para os detalhes. Um registro publicado pela FH Chalés, em que a madeira aproxima a arquitetura da experiência de estar em casa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/projetos/interiores-em-madeira",
+      "title": "O aconchego está nos detalhes. | FH Chalés",
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "description": "Texturas naturais, espaços de descanso e a presença da madeira. Um olhar para o interior divulgado pela FH Chalés e para os elementos que ajudam a construir uma atmosfera acolhedora.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/projetos/chale-madeira-40m2",
+      "title": "Chalé de madeira de 40 m². | FH Chalés",
+      "h1": "CHALÉ DE MADEIRA DE 40 M².",
+      "description": "Um projeto apresentado pela FH Chalés com 40 m², banheiro em alvenaria e dois quartos no piso superior, sendo um com sacada. A escada modelo Santos Dumont aproveita o espaço e conecta os ambientes de madeira.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/projetos/chale-entregue",
+      "title": "Um refúgio em madeira. | FH Chalés",
+      "h1": "UM REFÚGIO EM MADEIRA.",
+      "description": "Um chalé entregue a cliente e apresentado em vídeo pela FH Chalés. O registro mostra a madeira presente nos ambientes, espaços de descanso e a integração com a área externa. Uma referência real para conversar sobre materiais, ambientes e detalhes do seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/projetos/refugio-araucaria",
+      "title": "Refúgio Araucária. | FH Chalés",
+      "h1": "REFÚGIO ARAUCÁRIA.",
+      "description": "Um estudo de chalé em A com pé-direito generoso, grandes aberturas e uma relação contínua entre estar e deck. A madeira aparece como estrutura e textura, enquanto a paisagem orienta as principais vistas.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/projetos/cabana-horizonte",
+      "title": "Cabana Horizonte. | FH Chalés",
+      "h1": "CABANA HORIZONTE.",
+      "description": "Uma proposta de linhas contemporâneas e distribuição essencial. O estar integrado, a luz natural e o deck ampliam a experiência dos ambientes sem perder a escala acolhedora de uma cabana.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/projetos/casa-do-bosque",
+      "title": "Casa do Bosque. | FH Chalés",
+      "h1": "CASA DO BOSQUE.",
+      "description": "O encontro entre convivência e privacidade. Este estudo explora ambientes integrados, superfícies naturais e espaços para receber, com atenção à circulação e aos diferentes momentos do dia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/projetos/mirante-da-serra",
+      "title": "Mirante da Serra. | FH Chalés",
+      "h1": "MIRANTE DA SERRA.",
+      "description": "Um convite para viver a paisagem. Deck, áreas de descanso e continuidade visual entre interior e exterior dão forma a esta referência para quem deseja uma rotina mais próxima da natureza.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/servicos/chales",
+      "title": "Construção de chalés | FH Chalés",
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "description": "Do formato da cobertura à relação com a paisagem, um chalé começa com as escolhas de quem vai viver nele. Converse com a FH Chalés sobre seu terreno, seu estilo e os ambientes que deseja construir.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/servicos/cabanas",
+      "title": "Cabanas de alto padrão | FH Chalés",
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "description": "Uma cabana pode ser compacta e, ao mesmo tempo, generosa nas experiências. A conversa inicial ajuda a organizar a distribuição dos ambientes, as aberturas e os detalhes que tornam o espaço seu.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/servicos/casas",
+      "title": "Casas com identidade | FH Chalés",
+      "h1": "CASAS COM IDENTIDADE",
+      "description": "A FH Chalés se apresenta como construtora de cabanas, chalés e casas de alto padrão. Compartilhe suas referências e necessidades para conhecer as possibilidades de construção e os próximos passos com a equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/servicos/projetos-personalizados",
+      "title": "Projetos personalizados | FH Chalés",
+      "h1": "PROJETOS PERSONALIZADOS",
+      "description": "Da primeira lista de desejos à definição dos ambientes, o projeto ganha direção quando suas referências são organizadas. Distribuição, materiais, aberturas e relação com o terreno são discutidos para construir um escopo com identidade.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/servicos/acabamentos-e-ampliacoes",
+      "title": "Acabamentos e ampliações | FH Chalés",
+      "h1": "ACABAMENTOS E AMPLIAÇÕES",
+      "description": "Revestimentos, decks e ambientes de convivência transformam a experiência de estar em casa. Esta frente apresenta possibilidades de acabamento e expansão para conversar com a equipe e avaliar o que faz sentido para a construção.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/equipe/felipe-ramos",
+      "title": "Felipe Ramos | FH Chalés",
+      "h1": "FELIPE RAMOS",
+      "description": "Transformar referências em uma conversa clara é o primeiro passo. Felipe representa o atendimento que escuta, organiza as prioridades e acompanha cada nova ideia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/equipe/helena-martins",
+      "title": "Helena Martins | FH Chalés",
+      "h1": "HELENA MARTINS",
+      "description": "Helena representa o olhar para a luz, os materiais e a vida que acontece dentro da casa. Seu foco é conectar as escolhas de cada ambiente ao jeito de morar de cada pessoa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/equipe/lucas-andrade",
+      "title": "Lucas Andrade | FH Chalés",
+      "h1": "LUCAS ANDRADE",
+      "description": "Lucas representa a atenção ao caminho entre o desenho e o espaço construído. Organização das etapas, cuidado com os detalhes e uma comunicação próxima fazem parte desse trabalho.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/nao-existe",
+      "title": "Página não encontrada | FH Chalés",
+      "h1": "ESSE CAMINHO AINDA NÃO EXISTE.",
+      "description": "Página não encontrada. Conheça os projetos e serviços da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/",
+      "title": "Chalés, cabanas e casas de alto padrão | FH Chalés",
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "description": "Conheça a FH Chalés, explore projetos em madeira, serviços e possibilidades para o seu refúgio.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/sobre",
+      "title": "Sobre a FH Chalés | FH Chalés",
+      "h1": "SOBRE A FH CHALÉS",
+      "description": "Conheça a proposta da FH Chalés: arquitetura, madeira, paisagem e cuidado com os ambientes.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/como-funciona",
+      "title": "Como funciona | FH Chalés",
+      "h1": "COMO FUNCIONA",
+      "description": "Conheça as etapas de planejamento, escolhas, construção e entrega apresentadas pela FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/projetos",
+      "title": "Nossos projetos | FH Chalés",
+      "h1": "NOSSOS PROJETOS",
+      "description": "Explore o portfólio da FH Chalés, com registros da empresa, fotografias, detalhes e referências de arquitetura.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/servicos",
+      "title": "Nossos serviços | FH Chalés",
+      "h1": "NOSSOS SERVIÇOS",
+      "description": "Conheça as possibilidades de chalés, cabanas, casas, projetos personalizados, acabamentos e ampliações.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/contato",
+      "title": "Vamos construir seu próximo capítulo | FH Chalés",
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "description": "Converse com a FH Chalés pelo WhatsApp e compartilhe as ideias para o seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/faq",
+      "title": "Perguntas frequentes | FH Chalés",
+      "h1": "PERGUNTAS FREQUENTES",
+      "description": "Encontre respostas para as dúvidas sobre projetos, terreno, orçamento e atendimento da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/planejador",
+      "title": "Planeje seu refúgio | FH Chalés",
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "description": "Explore estilos e organize as referências do seu projeto para conversar com a FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/equipe",
+      "title": "Pessoas que dão forma às ideias | FH Chalés",
+      "h1": "PESSOAS QUE DÃO FORMA ÀS IDEIAS",
+      "description": "Conheça a apresentação demonstrativa dos perfis e áreas de atuação da equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/projetos/chale-em-madeira",
+      "title": "Madeira, luz e acolhimento. | FH Chalés",
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "description": "A estrutura em A, a transparência da fachada e a iluminação quente revelam um olhar para os detalhes. Um registro publicado pela FH Chalés, em que a madeira aproxima a arquitetura da experiência de estar em casa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/projetos/interiores-em-madeira",
+      "title": "O aconchego está nos detalhes. | FH Chalés",
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "description": "Texturas naturais, espaços de descanso e a presença da madeira. Um olhar para o interior divulgado pela FH Chalés e para os elementos que ajudam a construir uma atmosfera acolhedora.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/projetos/chale-madeira-40m2",
+      "title": "Chalé de madeira de 40 m². | FH Chalés",
+      "h1": "CHALÉ DE MADEIRA DE 40 M².",
+      "description": "Um projeto apresentado pela FH Chalés com 40 m², banheiro em alvenaria e dois quartos no piso superior, sendo um com sacada. A escada modelo Santos Dumont aproveita o espaço e conecta os ambientes de madeira.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/projetos/chale-entregue",
+      "title": "Um refúgio em madeira. | FH Chalés",
+      "h1": "UM REFÚGIO EM MADEIRA.",
+      "description": "Um chalé entregue a cliente e apresentado em vídeo pela FH Chalés. O registro mostra a madeira presente nos ambientes, espaços de descanso e a integração com a área externa. Uma referência real para conversar sobre materiais, ambientes e detalhes do seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/projetos/refugio-araucaria",
+      "title": "Refúgio Araucária. | FH Chalés",
+      "h1": "REFÚGIO ARAUCÁRIA.",
+      "description": "Um estudo de chalé em A com pé-direito generoso, grandes aberturas e uma relação contínua entre estar e deck. A madeira aparece como estrutura e textura, enquanto a paisagem orienta as principais vistas.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/projetos/cabana-horizonte",
+      "title": "Cabana Horizonte. | FH Chalés",
+      "h1": "CABANA HORIZONTE.",
+      "description": "Uma proposta de linhas contemporâneas e distribuição essencial. O estar integrado, a luz natural e o deck ampliam a experiência dos ambientes sem perder a escala acolhedora de uma cabana.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/projetos/casa-do-bosque",
+      "title": "Casa do Bosque. | FH Chalés",
+      "h1": "CASA DO BOSQUE.",
+      "description": "O encontro entre convivência e privacidade. Este estudo explora ambientes integrados, superfícies naturais e espaços para receber, com atenção à circulação e aos diferentes momentos do dia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/projetos/mirante-da-serra",
+      "title": "Mirante da Serra. | FH Chalés",
+      "h1": "MIRANTE DA SERRA.",
+      "description": "Um convite para viver a paisagem. Deck, áreas de descanso e continuidade visual entre interior e exterior dão forma a esta referência para quem deseja uma rotina mais próxima da natureza.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/servicos/chales",
+      "title": "Construção de chalés | FH Chalés",
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "description": "Do formato da cobertura à relação com a paisagem, um chalé começa com as escolhas de quem vai viver nele. Converse com a FH Chalés sobre seu terreno, seu estilo e os ambientes que deseja construir.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/servicos/cabanas",
+      "title": "Cabanas de alto padrão | FH Chalés",
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "description": "Uma cabana pode ser compacta e, ao mesmo tempo, generosa nas experiências. A conversa inicial ajuda a organizar a distribuição dos ambientes, as aberturas e os detalhes que tornam o espaço seu.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/servicos/casas",
+      "title": "Casas com identidade | FH Chalés",
+      "h1": "CASAS COM IDENTIDADE",
+      "description": "A FH Chalés se apresenta como construtora de cabanas, chalés e casas de alto padrão. Compartilhe suas referências e necessidades para conhecer as possibilidades de construção e os próximos passos com a equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/servicos/projetos-personalizados",
+      "title": "Projetos personalizados | FH Chalés",
+      "h1": "PROJETOS PERSONALIZADOS",
+      "description": "Da primeira lista de desejos à definição dos ambientes, o projeto ganha direção quando suas referências são organizadas. Distribuição, materiais, aberturas e relação com o terreno são discutidos para construir um escopo com identidade.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/servicos/acabamentos-e-ampliacoes",
+      "title": "Acabamentos e ampliações | FH Chalés",
+      "h1": "ACABAMENTOS E AMPLIAÇÕES",
+      "description": "Revestimentos, decks e ambientes de convivência transformam a experiência de estar em casa. Esta frente apresenta possibilidades de acabamento e expansão para conversar com a equipe e avaliar o que faz sentido para a construção.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/equipe/felipe-ramos",
+      "title": "Felipe Ramos | FH Chalés",
+      "h1": "FELIPE RAMOS",
+      "description": "Transformar referências em uma conversa clara é o primeiro passo. Felipe representa o atendimento que escuta, organiza as prioridades e acompanha cada nova ideia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/equipe/helena-martins",
+      "title": "Helena Martins | FH Chalés",
+      "h1": "HELENA MARTINS",
+      "description": "Helena representa o olhar para a luz, os materiais e a vida que acontece dentro da casa. Seu foco é conectar as escolhas de cada ambiente ao jeito de morar de cada pessoa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/equipe/lucas-andrade",
+      "title": "Lucas Andrade | FH Chalés",
+      "h1": "LUCAS ANDRADE",
+      "description": "Lucas representa a atenção ao caminho entre o desenho e o espaço construído. Organização das etapas, cuidado com os detalhes e uma comunicação próxima fazem parte desse trabalho.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/nao-existe",
+      "title": "Página não encontrada | FH Chalés",
+      "h1": "ESSE CAMINHO AINDA NÃO EXISTE.",
+      "description": "Página não encontrada. Conheça os projetos e serviços da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/",
+      "title": "Chalés, cabanas e casas de alto padrão | FH Chalés",
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "description": "Conheça a FH Chalés, explore projetos em madeira, serviços e possibilidades para o seu refúgio.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/sobre",
+      "title": "Sobre a FH Chalés | FH Chalés",
+      "h1": "SOBRE A FH CHALÉS",
+      "description": "Conheça a proposta da FH Chalés: arquitetura, madeira, paisagem e cuidado com os ambientes.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/como-funciona",
+      "title": "Como funciona | FH Chalés",
+      "h1": "COMO FUNCIONA",
+      "description": "Conheça as etapas de planejamento, escolhas, construção e entrega apresentadas pela FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/projetos",
+      "title": "Nossos projetos | FH Chalés",
+      "h1": "NOSSOS PROJETOS",
+      "description": "Explore o portfólio da FH Chalés, com registros da empresa, fotografias, detalhes e referências de arquitetura.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/servicos",
+      "title": "Nossos serviços | FH Chalés",
+      "h1": "NOSSOS SERVIÇOS",
+      "description": "Conheça as possibilidades de chalés, cabanas, casas, projetos personalizados, acabamentos e ampliações.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/contato",
+      "title": "Vamos construir seu próximo capítulo | FH Chalés",
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "description": "Converse com a FH Chalés pelo WhatsApp e compartilhe as ideias para o seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/faq",
+      "title": "Perguntas frequentes | FH Chalés",
+      "h1": "PERGUNTAS FREQUENTES",
+      "description": "Encontre respostas para as dúvidas sobre projetos, terreno, orçamento e atendimento da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/planejador",
+      "title": "Planeje seu refúgio | FH Chalés",
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "description": "Explore estilos e organize as referências do seu projeto para conversar com a FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/equipe",
+      "title": "Pessoas que dão forma às ideias | FH Chalés",
+      "h1": "PESSOAS QUE DÃO FORMA ÀS IDEIAS",
+      "description": "Conheça a apresentação demonstrativa dos perfis e áreas de atuação da equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/projetos/chale-em-madeira",
+      "title": "Madeira, luz e acolhimento. | FH Chalés",
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "description": "A estrutura em A, a transparência da fachada e a iluminação quente revelam um olhar para os detalhes. Um registro publicado pela FH Chalés, em que a madeira aproxima a arquitetura da experiência de estar em casa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/projetos/interiores-em-madeira",
+      "title": "O aconchego está nos detalhes. | FH Chalés",
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "description": "Texturas naturais, espaços de descanso e a presença da madeira. Um olhar para o interior divulgado pela FH Chalés e para os elementos que ajudam a construir uma atmosfera acolhedora.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/projetos/chale-madeira-40m2",
+      "title": "Chalé de madeira de 40 m². | FH Chalés",
+      "h1": "CHALÉ DE MADEIRA DE 40 M².",
+      "description": "Um projeto apresentado pela FH Chalés com 40 m², banheiro em alvenaria e dois quartos no piso superior, sendo um com sacada. A escada modelo Santos Dumont aproveita o espaço e conecta os ambientes de madeira.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/projetos/chale-entregue",
+      "title": "Um refúgio em madeira. | FH Chalés",
+      "h1": "UM REFÚGIO EM MADEIRA.",
+      "description": "Um chalé entregue a cliente e apresentado em vídeo pela FH Chalés. O registro mostra a madeira presente nos ambientes, espaços de descanso e a integração com a área externa. Uma referência real para conversar sobre materiais, ambientes e detalhes do seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/projetos/refugio-araucaria",
+      "title": "Refúgio Araucária. | FH Chalés",
+      "h1": "REFÚGIO ARAUCÁRIA.",
+      "description": "Um estudo de chalé em A com pé-direito generoso, grandes aberturas e uma relação contínua entre estar e deck. A madeira aparece como estrutura e textura, enquanto a paisagem orienta as principais vistas.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/projetos/cabana-horizonte",
+      "title": "Cabana Horizonte. | FH Chalés",
+      "h1": "CABANA HORIZONTE.",
+      "description": "Uma proposta de linhas contemporâneas e distribuição essencial. O estar integrado, a luz natural e o deck ampliam a experiência dos ambientes sem perder a escala acolhedora de uma cabana.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/projetos/casa-do-bosque",
+      "title": "Casa do Bosque. | FH Chalés",
+      "h1": "CASA DO BOSQUE.",
+      "description": "O encontro entre convivência e privacidade. Este estudo explora ambientes integrados, superfícies naturais e espaços para receber, com atenção à circulação e aos diferentes momentos do dia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/projetos/mirante-da-serra",
+      "title": "Mirante da Serra. | FH Chalés",
+      "h1": "MIRANTE DA SERRA.",
+      "description": "Um convite para viver a paisagem. Deck, áreas de descanso e continuidade visual entre interior e exterior dão forma a esta referência para quem deseja uma rotina mais próxima da natureza.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/servicos/chales",
+      "title": "Construção de chalés | FH Chalés",
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "description": "Do formato da cobertura à relação com a paisagem, um chalé começa com as escolhas de quem vai viver nele. Converse com a FH Chalés sobre seu terreno, seu estilo e os ambientes que deseja construir.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/servicos/cabanas",
+      "title": "Cabanas de alto padrão | FH Chalés",
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "description": "Uma cabana pode ser compacta e, ao mesmo tempo, generosa nas experiências. A conversa inicial ajuda a organizar a distribuição dos ambientes, as aberturas e os detalhes que tornam o espaço seu.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/servicos/casas",
+      "title": "Casas com identidade | FH Chalés",
+      "h1": "CASAS COM IDENTIDADE",
+      "description": "A FH Chalés se apresenta como construtora de cabanas, chalés e casas de alto padrão. Compartilhe suas referências e necessidades para conhecer as possibilidades de construção e os próximos passos com a equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/servicos/projetos-personalizados",
+      "title": "Projetos personalizados | FH Chalés",
+      "h1": "PROJETOS PERSONALIZADOS",
+      "description": "Da primeira lista de desejos à definição dos ambientes, o projeto ganha direção quando suas referências são organizadas. Distribuição, materiais, aberturas e relação com o terreno são discutidos para construir um escopo com identidade.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/servicos/acabamentos-e-ampliacoes",
+      "title": "Acabamentos e ampliações | FH Chalés",
+      "h1": "ACABAMENTOS E AMPLIAÇÕES",
+      "description": "Revestimentos, decks e ambientes de convivência transformam a experiência de estar em casa. Esta frente apresenta possibilidades de acabamento e expansão para conversar com a equipe e avaliar o que faz sentido para a construção.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/equipe/felipe-ramos",
+      "title": "Felipe Ramos | FH Chalés",
+      "h1": "FELIPE RAMOS",
+      "description": "Transformar referências em uma conversa clara é o primeiro passo. Felipe representa o atendimento que escuta, organiza as prioridades e acompanha cada nova ideia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/equipe/helena-martins",
+      "title": "Helena Martins | FH Chalés",
+      "h1": "HELENA MARTINS",
+      "description": "Helena representa o olhar para a luz, os materiais e a vida que acontece dentro da casa. Seu foco é conectar as escolhas de cada ambiente ao jeito de morar de cada pessoa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/equipe/lucas-andrade",
+      "title": "Lucas Andrade | FH Chalés",
+      "h1": "LUCAS ANDRADE",
+      "description": "Lucas representa a atenção ao caminho entre o desenho e o espaço construído. Organização das etapas, cuidado com os detalhes e uma comunicação próxima fazem parte desse trabalho.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/nao-existe",
+      "title": "Página não encontrada | FH Chalés",
+      "h1": "ESSE CAMINHO AINDA NÃO EXISTE.",
+      "description": "Página não encontrada. Conheça os projetos e serviços da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/",
+      "title": "Chalés, cabanas e casas de alto padrão | FH Chalés",
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "description": "Conheça a FH Chalés, explore projetos em madeira, serviços e possibilidades para o seu refúgio.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/sobre",
+      "title": "Sobre a FH Chalés | FH Chalés",
+      "h1": "SOBRE A FH CHALÉS",
+      "description": "Conheça a proposta da FH Chalés: arquitetura, madeira, paisagem e cuidado com os ambientes.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/como-funciona",
+      "title": "Como funciona | FH Chalés",
+      "h1": "COMO FUNCIONA",
+      "description": "Conheça as etapas de planejamento, escolhas, construção e entrega apresentadas pela FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/projetos",
+      "title": "Nossos projetos | FH Chalés",
+      "h1": "NOSSOS PROJETOS",
+      "description": "Explore o portfólio da FH Chalés, com registros da empresa, fotografias, detalhes e referências de arquitetura.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/servicos",
+      "title": "Nossos serviços | FH Chalés",
+      "h1": "NOSSOS SERVIÇOS",
+      "description": "Conheça as possibilidades de chalés, cabanas, casas, projetos personalizados, acabamentos e ampliações.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/contato",
+      "title": "Vamos construir seu próximo capítulo | FH Chalés",
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "description": "Converse com a FH Chalés pelo WhatsApp e compartilhe as ideias para o seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/faq",
+      "title": "Perguntas frequentes | FH Chalés",
+      "h1": "PERGUNTAS FREQUENTES",
+      "description": "Encontre respostas para as dúvidas sobre projetos, terreno, orçamento e atendimento da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/planejador",
+      "title": "Planeje seu refúgio | FH Chalés",
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "description": "Explore estilos e organize as referências do seu projeto para conversar com a FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/equipe",
+      "title": "Pessoas que dão forma às ideias | FH Chalés",
+      "h1": "PESSOAS QUE DÃO FORMA ÀS IDEIAS",
+      "description": "Conheça a apresentação demonstrativa dos perfis e áreas de atuação da equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/projetos/chale-em-madeira",
+      "title": "Madeira, luz e acolhimento. | FH Chalés",
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "description": "A estrutura em A, a transparência da fachada e a iluminação quente revelam um olhar para os detalhes. Um registro publicado pela FH Chalés, em que a madeira aproxima a arquitetura da experiência de estar em casa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/projetos/interiores-em-madeira",
+      "title": "O aconchego está nos detalhes. | FH Chalés",
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "description": "Texturas naturais, espaços de descanso e a presença da madeira. Um olhar para o interior divulgado pela FH Chalés e para os elementos que ajudam a construir uma atmosfera acolhedora.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/projetos/chale-madeira-40m2",
+      "title": "Chalé de madeira de 40 m². | FH Chalés",
+      "h1": "CHALÉ DE MADEIRA DE 40 M².",
+      "description": "Um projeto apresentado pela FH Chalés com 40 m², banheiro em alvenaria e dois quartos no piso superior, sendo um com sacada. A escada modelo Santos Dumont aproveita o espaço e conecta os ambientes de madeira.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/projetos/chale-entregue",
+      "title": "Um refúgio em madeira. | FH Chalés",
+      "h1": "UM REFÚGIO EM MADEIRA.",
+      "description": "Um chalé entregue a cliente e apresentado em vídeo pela FH Chalés. O registro mostra a madeira presente nos ambientes, espaços de descanso e a integração com a área externa. Uma referência real para conversar sobre materiais, ambientes e detalhes do seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/projetos/refugio-araucaria",
+      "title": "Refúgio Araucária. | FH Chalés",
+      "h1": "REFÚGIO ARAUCÁRIA.",
+      "description": "Um estudo de chalé em A com pé-direito generoso, grandes aberturas e uma relação contínua entre estar e deck. A madeira aparece como estrutura e textura, enquanto a paisagem orienta as principais vistas.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/projetos/cabana-horizonte",
+      "title": "Cabana Horizonte. | FH Chalés",
+      "h1": "CABANA HORIZONTE.",
+      "description": "Uma proposta de linhas contemporâneas e distribuição essencial. O estar integrado, a luz natural e o deck ampliam a experiência dos ambientes sem perder a escala acolhedora de uma cabana.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/projetos/casa-do-bosque",
+      "title": "Casa do Bosque. | FH Chalés",
+      "h1": "CASA DO BOSQUE.",
+      "description": "O encontro entre convivência e privacidade. Este estudo explora ambientes integrados, superfícies naturais e espaços para receber, com atenção à circulação e aos diferentes momentos do dia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/projetos/mirante-da-serra",
+      "title": "Mirante da Serra. | FH Chalés",
+      "h1": "MIRANTE DA SERRA.",
+      "description": "Um convite para viver a paisagem. Deck, áreas de descanso e continuidade visual entre interior e exterior dão forma a esta referência para quem deseja uma rotina mais próxima da natureza.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/servicos/chales",
+      "title": "Construção de chalés | FH Chalés",
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "description": "Do formato da cobertura à relação com a paisagem, um chalé começa com as escolhas de quem vai viver nele. Converse com a FH Chalés sobre seu terreno, seu estilo e os ambientes que deseja construir.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/servicos/cabanas",
+      "title": "Cabanas de alto padrão | FH Chalés",
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "description": "Uma cabana pode ser compacta e, ao mesmo tempo, generosa nas experiências. A conversa inicial ajuda a organizar a distribuição dos ambientes, as aberturas e os detalhes que tornam o espaço seu.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/servicos/casas",
+      "title": "Casas com identidade | FH Chalés",
+      "h1": "CASAS COM IDENTIDADE",
+      "description": "A FH Chalés se apresenta como construtora de cabanas, chalés e casas de alto padrão. Compartilhe suas referências e necessidades para conhecer as possibilidades de construção e os próximos passos com a equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/servicos/projetos-personalizados",
+      "title": "Projetos personalizados | FH Chalés",
+      "h1": "PROJETOS PERSONALIZADOS",
+      "description": "Da primeira lista de desejos à definição dos ambientes, o projeto ganha direção quando suas referências são organizadas. Distribuição, materiais, aberturas e relação com o terreno são discutidos para construir um escopo com identidade.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/servicos/acabamentos-e-ampliacoes",
+      "title": "Acabamentos e ampliações | FH Chalés",
+      "h1": "ACABAMENTOS E AMPLIAÇÕES",
+      "description": "Revestimentos, decks e ambientes de convivência transformam a experiência de estar em casa. Esta frente apresenta possibilidades de acabamento e expansão para conversar com a equipe e avaliar o que faz sentido para a construção.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/equipe/felipe-ramos",
+      "title": "Felipe Ramos | FH Chalés",
+      "h1": "FELIPE RAMOS",
+      "description": "Transformar referências em uma conversa clara é o primeiro passo. Felipe representa o atendimento que escuta, organiza as prioridades e acompanha cada nova ideia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/equipe/helena-martins",
+      "title": "Helena Martins | FH Chalés",
+      "h1": "HELENA MARTINS",
+      "description": "Helena representa o olhar para a luz, os materiais e a vida que acontece dentro da casa. Seu foco é conectar as escolhas de cada ambiente ao jeito de morar de cada pessoa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/equipe/lucas-andrade",
+      "title": "Lucas Andrade | FH Chalés",
+      "h1": "LUCAS ANDRADE",
+      "description": "Lucas representa a atenção ao caminho entre o desenho e o espaço construído. Organização das etapas, cuidado com os detalhes e uma comunicação próxima fazem parte desse trabalho.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/nao-existe",
+      "title": "Página não encontrada | FH Chalés",
+      "h1": "ESSE CAMINHO AINDA NÃO EXISTE.",
+      "description": "Página não encontrada. Conheça os projetos e serviços da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/",
+      "title": "Chalés, cabanas e casas de alto padrão | FH Chalés",
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "description": "Conheça a FH Chalés, explore projetos em madeira, serviços e possibilidades para o seu refúgio.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/sobre",
+      "title": "Sobre a FH Chalés | FH Chalés",
+      "h1": "SOBRE A FH CHALÉS",
+      "description": "Conheça a proposta da FH Chalés: arquitetura, madeira, paisagem e cuidado com os ambientes.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/como-funciona",
+      "title": "Como funciona | FH Chalés",
+      "h1": "COMO FUNCIONA",
+      "description": "Conheça as etapas de planejamento, escolhas, construção e entrega apresentadas pela FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/projetos",
+      "title": "Nossos projetos | FH Chalés",
+      "h1": "NOSSOS PROJETOS",
+      "description": "Explore o portfólio da FH Chalés, com registros da empresa, fotografias, detalhes e referências de arquitetura.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/servicos",
+      "title": "Nossos serviços | FH Chalés",
+      "h1": "NOSSOS SERVIÇOS",
+      "description": "Conheça as possibilidades de chalés, cabanas, casas, projetos personalizados, acabamentos e ampliações.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/contato",
+      "title": "Vamos construir seu próximo capítulo | FH Chalés",
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "description": "Converse com a FH Chalés pelo WhatsApp e compartilhe as ideias para o seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/faq",
+      "title": "Perguntas frequentes | FH Chalés",
+      "h1": "PERGUNTAS FREQUENTES",
+      "description": "Encontre respostas para as dúvidas sobre projetos, terreno, orçamento e atendimento da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/planejador",
+      "title": "Planeje seu refúgio | FH Chalés",
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "description": "Explore estilos e organize as referências do seu projeto para conversar com a FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/equipe",
+      "title": "Pessoas que dão forma às ideias | FH Chalés",
+      "h1": "PESSOAS QUE DÃO FORMA ÀS IDEIAS",
+      "description": "Conheça a apresentação demonstrativa dos perfis e áreas de atuação da equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/projetos/chale-em-madeira",
+      "title": "Madeira, luz e acolhimento. | FH Chalés",
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "description": "A estrutura em A, a transparência da fachada e a iluminação quente revelam um olhar para os detalhes. Um registro publicado pela FH Chalés, em que a madeira aproxima a arquitetura da experiência de estar em casa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/projetos/interiores-em-madeira",
+      "title": "O aconchego está nos detalhes. | FH Chalés",
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "description": "Texturas naturais, espaços de descanso e a presença da madeira. Um olhar para o interior divulgado pela FH Chalés e para os elementos que ajudam a construir uma atmosfera acolhedora.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/projetos/chale-madeira-40m2",
+      "title": "Chalé de madeira de 40 m². | FH Chalés",
+      "h1": "CHALÉ DE MADEIRA DE 40 M².",
+      "description": "Um projeto apresentado pela FH Chalés com 40 m², banheiro em alvenaria e dois quartos no piso superior, sendo um com sacada. A escada modelo Santos Dumont aproveita o espaço e conecta os ambientes de madeira.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/projetos/chale-entregue",
+      "title": "Um refúgio em madeira. | FH Chalés",
+      "h1": "UM REFÚGIO EM MADEIRA.",
+      "description": "Um chalé entregue a cliente e apresentado em vídeo pela FH Chalés. O registro mostra a madeira presente nos ambientes, espaços de descanso e a integração com a área externa. Uma referência real para conversar sobre materiais, ambientes e detalhes do seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/projetos/refugio-araucaria",
+      "title": "Refúgio Araucária. | FH Chalés",
+      "h1": "REFÚGIO ARAUCÁRIA.",
+      "description": "Um estudo de chalé em A com pé-direito generoso, grandes aberturas e uma relação contínua entre estar e deck. A madeira aparece como estrutura e textura, enquanto a paisagem orienta as principais vistas.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/projetos/cabana-horizonte",
+      "title": "Cabana Horizonte. | FH Chalés",
+      "h1": "CABANA HORIZONTE.",
+      "description": "Uma proposta de linhas contemporâneas e distribuição essencial. O estar integrado, a luz natural e o deck ampliam a experiência dos ambientes sem perder a escala acolhedora de uma cabana.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/projetos/casa-do-bosque",
+      "title": "Casa do Bosque. | FH Chalés",
+      "h1": "CASA DO BOSQUE.",
+      "description": "O encontro entre convivência e privacidade. Este estudo explora ambientes integrados, superfícies naturais e espaços para receber, com atenção à circulação e aos diferentes momentos do dia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/projetos/mirante-da-serra",
+      "title": "Mirante da Serra. | FH Chalés",
+      "h1": "MIRANTE DA SERRA.",
+      "description": "Um convite para viver a paisagem. Deck, áreas de descanso e continuidade visual entre interior e exterior dão forma a esta referência para quem deseja uma rotina mais próxima da natureza.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/servicos/chales",
+      "title": "Construção de chalés | FH Chalés",
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "description": "Do formato da cobertura à relação com a paisagem, um chalé começa com as escolhas de quem vai viver nele. Converse com a FH Chalés sobre seu terreno, seu estilo e os ambientes que deseja construir.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/servicos/cabanas",
+      "title": "Cabanas de alto padrão | FH Chalés",
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "description": "Uma cabana pode ser compacta e, ao mesmo tempo, generosa nas experiências. A conversa inicial ajuda a organizar a distribuição dos ambientes, as aberturas e os detalhes que tornam o espaço seu.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/servicos/casas",
+      "title": "Casas com identidade | FH Chalés",
+      "h1": "CASAS COM IDENTIDADE",
+      "description": "A FH Chalés se apresenta como construtora de cabanas, chalés e casas de alto padrão. Compartilhe suas referências e necessidades para conhecer as possibilidades de construção e os próximos passos com a equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/servicos/projetos-personalizados",
+      "title": "Projetos personalizados | FH Chalés",
+      "h1": "PROJETOS PERSONALIZADOS",
+      "description": "Da primeira lista de desejos à definição dos ambientes, o projeto ganha direção quando suas referências são organizadas. Distribuição, materiais, aberturas e relação com o terreno são discutidos para construir um escopo com identidade.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/servicos/acabamentos-e-ampliacoes",
+      "title": "Acabamentos e ampliações | FH Chalés",
+      "h1": "ACABAMENTOS E AMPLIAÇÕES",
+      "description": "Revestimentos, decks e ambientes de convivência transformam a experiência de estar em casa. Esta frente apresenta possibilidades de acabamento e expansão para conversar com a equipe e avaliar o que faz sentido para a construção.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/equipe/felipe-ramos",
+      "title": "Felipe Ramos | FH Chalés",
+      "h1": "FELIPE RAMOS",
+      "description": "Transformar referências em uma conversa clara é o primeiro passo. Felipe representa o atendimento que escuta, organiza as prioridades e acompanha cada nova ideia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/equipe/helena-martins",
+      "title": "Helena Martins | FH Chalés",
+      "h1": "HELENA MARTINS",
+      "description": "Helena representa o olhar para a luz, os materiais e a vida que acontece dentro da casa. Seu foco é conectar as escolhas de cada ambiente ao jeito de morar de cada pessoa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/equipe/lucas-andrade",
+      "title": "Lucas Andrade | FH Chalés",
+      "h1": "LUCAS ANDRADE",
+      "description": "Lucas representa a atenção ao caminho entre o desenho e o espaço construído. Organização das etapas, cuidado com os detalhes e uma comunicação próxima fazem parte desse trabalho.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/nao-existe",
+      "title": "Página não encontrada | FH Chalés",
+      "h1": "ESSE CAMINHO AINDA NÃO EXISTE.",
+      "description": "Página não encontrada. Conheça os projetos e serviços da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/",
+      "title": "Chalés, cabanas e casas de alto padrão | FH Chalés",
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "description": "Conheça a FH Chalés, explore projetos em madeira, serviços e possibilidades para o seu refúgio.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/sobre",
+      "title": "Sobre a FH Chalés | FH Chalés",
+      "h1": "SOBRE A FH CHALÉS",
+      "description": "Conheça a proposta da FH Chalés: arquitetura, madeira, paisagem e cuidado com os ambientes.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/como-funciona",
+      "title": "Como funciona | FH Chalés",
+      "h1": "COMO FUNCIONA",
+      "description": "Conheça as etapas de planejamento, escolhas, construção e entrega apresentadas pela FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/projetos",
+      "title": "Nossos projetos | FH Chalés",
+      "h1": "NOSSOS PROJETOS",
+      "description": "Explore o portfólio da FH Chalés, com registros da empresa, fotografias, detalhes e referências de arquitetura.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/servicos",
+      "title": "Nossos serviços | FH Chalés",
+      "h1": "NOSSOS SERVIÇOS",
+      "description": "Conheça as possibilidades de chalés, cabanas, casas, projetos personalizados, acabamentos e ampliações.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/contato",
+      "title": "Vamos construir seu próximo capítulo | FH Chalés",
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "description": "Converse com a FH Chalés pelo WhatsApp e compartilhe as ideias para o seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/faq",
+      "title": "Perguntas frequentes | FH Chalés",
+      "h1": "PERGUNTAS FREQUENTES",
+      "description": "Encontre respostas para as dúvidas sobre projetos, terreno, orçamento e atendimento da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/planejador",
+      "title": "Planeje seu refúgio | FH Chalés",
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "description": "Explore estilos e organize as referências do seu projeto para conversar com a FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/equipe",
+      "title": "Pessoas que dão forma às ideias | FH Chalés",
+      "h1": "PESSOAS QUE DÃO FORMA ÀS IDEIAS",
+      "description": "Conheça a apresentação demonstrativa dos perfis e áreas de atuação da equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/projetos/chale-em-madeira",
+      "title": "Madeira, luz e acolhimento. | FH Chalés",
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "description": "A estrutura em A, a transparência da fachada e a iluminação quente revelam um olhar para os detalhes. Um registro publicado pela FH Chalés, em que a madeira aproxima a arquitetura da experiência de estar em casa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/projetos/interiores-em-madeira",
+      "title": "O aconchego está nos detalhes. | FH Chalés",
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "description": "Texturas naturais, espaços de descanso e a presença da madeira. Um olhar para o interior divulgado pela FH Chalés e para os elementos que ajudam a construir uma atmosfera acolhedora.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/projetos/chale-madeira-40m2",
+      "title": "Chalé de madeira de 40 m². | FH Chalés",
+      "h1": "CHALÉ DE MADEIRA DE 40 M².",
+      "description": "Um projeto apresentado pela FH Chalés com 40 m², banheiro em alvenaria e dois quartos no piso superior, sendo um com sacada. A escada modelo Santos Dumont aproveita o espaço e conecta os ambientes de madeira.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/projetos/chale-entregue",
+      "title": "Um refúgio em madeira. | FH Chalés",
+      "h1": "UM REFÚGIO EM MADEIRA.",
+      "description": "Um chalé entregue a cliente e apresentado em vídeo pela FH Chalés. O registro mostra a madeira presente nos ambientes, espaços de descanso e a integração com a área externa. Uma referência real para conversar sobre materiais, ambientes e detalhes do seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/projetos/refugio-araucaria",
+      "title": "Refúgio Araucária. | FH Chalés",
+      "h1": "REFÚGIO ARAUCÁRIA.",
+      "description": "Um estudo de chalé em A com pé-direito generoso, grandes aberturas e uma relação contínua entre estar e deck. A madeira aparece como estrutura e textura, enquanto a paisagem orienta as principais vistas.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/projetos/cabana-horizonte",
+      "title": "Cabana Horizonte. | FH Chalés",
+      "h1": "CABANA HORIZONTE.",
+      "description": "Uma proposta de linhas contemporâneas e distribuição essencial. O estar integrado, a luz natural e o deck ampliam a experiência dos ambientes sem perder a escala acolhedora de uma cabana.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/projetos/casa-do-bosque",
+      "title": "Casa do Bosque. | FH Chalés",
+      "h1": "CASA DO BOSQUE.",
+      "description": "O encontro entre convivência e privacidade. Este estudo explora ambientes integrados, superfícies naturais e espaços para receber, com atenção à circulação e aos diferentes momentos do dia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/projetos/mirante-da-serra",
+      "title": "Mirante da Serra. | FH Chalés",
+      "h1": "MIRANTE DA SERRA.",
+      "description": "Um convite para viver a paisagem. Deck, áreas de descanso e continuidade visual entre interior e exterior dão forma a esta referência para quem deseja uma rotina mais próxima da natureza.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/servicos/chales",
+      "title": "Construção de chalés | FH Chalés",
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "description": "Do formato da cobertura à relação com a paisagem, um chalé começa com as escolhas de quem vai viver nele. Converse com a FH Chalés sobre seu terreno, seu estilo e os ambientes que deseja construir.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/servicos/cabanas",
+      "title": "Cabanas de alto padrão | FH Chalés",
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "description": "Uma cabana pode ser compacta e, ao mesmo tempo, generosa nas experiências. A conversa inicial ajuda a organizar a distribuição dos ambientes, as aberturas e os detalhes que tornam o espaço seu.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/servicos/casas",
+      "title": "Casas com identidade | FH Chalés",
+      "h1": "CASAS COM IDENTIDADE",
+      "description": "A FH Chalés se apresenta como construtora de cabanas, chalés e casas de alto padrão. Compartilhe suas referências e necessidades para conhecer as possibilidades de construção e os próximos passos com a equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/servicos/projetos-personalizados",
+      "title": "Projetos personalizados | FH Chalés",
+      "h1": "PROJETOS PERSONALIZADOS",
+      "description": "Da primeira lista de desejos à definição dos ambientes, o projeto ganha direção quando suas referências são organizadas. Distribuição, materiais, aberturas e relação com o terreno são discutidos para construir um escopo com identidade.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/servicos/acabamentos-e-ampliacoes",
+      "title": "Acabamentos e ampliações | FH Chalés",
+      "h1": "ACABAMENTOS E AMPLIAÇÕES",
+      "description": "Revestimentos, decks e ambientes de convivência transformam a experiência de estar em casa. Esta frente apresenta possibilidades de acabamento e expansão para conversar com a equipe e avaliar o que faz sentido para a construção.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/equipe/felipe-ramos",
+      "title": "Felipe Ramos | FH Chalés",
+      "h1": "FELIPE RAMOS",
+      "description": "Transformar referências em uma conversa clara é o primeiro passo. Felipe representa o atendimento que escuta, organiza as prioridades e acompanha cada nova ideia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/equipe/helena-martins",
+      "title": "Helena Martins | FH Chalés",
+      "h1": "HELENA MARTINS",
+      "description": "Helena representa o olhar para a luz, os materiais e a vida que acontece dentro da casa. Seu foco é conectar as escolhas de cada ambiente ao jeito de morar de cada pessoa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/equipe/lucas-andrade",
+      "title": "Lucas Andrade | FH Chalés",
+      "h1": "LUCAS ANDRADE",
+      "description": "Lucas representa a atenção ao caminho entre o desenho e o espaço construído. Organização das etapas, cuidado com os detalhes e uma comunicação próxima fazem parte desse trabalho.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/nao-existe",
+      "title": "Página não encontrada | FH Chalés",
+      "h1": "ESSE CAMINHO AINDA NÃO EXISTE.",
+      "description": "Página não encontrada. Conheça os projetos e serviços da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/",
+      "title": "Chalés, cabanas e casas de alto padrão | FH Chalés",
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "description": "Conheça a FH Chalés, explore projetos em madeira, serviços e possibilidades para o seu refúgio.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/sobre",
+      "title": "Sobre a FH Chalés | FH Chalés",
+      "h1": "SOBRE A FH CHALÉS",
+      "description": "Conheça a proposta da FH Chalés: arquitetura, madeira, paisagem e cuidado com os ambientes.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/como-funciona",
+      "title": "Como funciona | FH Chalés",
+      "h1": "COMO FUNCIONA",
+      "description": "Conheça as etapas de planejamento, escolhas, construção e entrega apresentadas pela FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/projetos",
+      "title": "Nossos projetos | FH Chalés",
+      "h1": "NOSSOS PROJETOS",
+      "description": "Explore o portfólio da FH Chalés, com registros da empresa, fotografias, detalhes e referências de arquitetura.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/servicos",
+      "title": "Nossos serviços | FH Chalés",
+      "h1": "NOSSOS SERVIÇOS",
+      "description": "Conheça as possibilidades de chalés, cabanas, casas, projetos personalizados, acabamentos e ampliações.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/contato",
+      "title": "Vamos construir seu próximo capítulo | FH Chalés",
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "description": "Converse com a FH Chalés pelo WhatsApp e compartilhe as ideias para o seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/faq",
+      "title": "Perguntas frequentes | FH Chalés",
+      "h1": "PERGUNTAS FREQUENTES",
+      "description": "Encontre respostas para as dúvidas sobre projetos, terreno, orçamento e atendimento da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/planejador",
+      "title": "Planeje seu refúgio | FH Chalés",
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "description": "Explore estilos e organize as referências do seu projeto para conversar com a FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/equipe",
+      "title": "Pessoas que dão forma às ideias | FH Chalés",
+      "h1": "PESSOAS QUE DÃO FORMA ÀS IDEIAS",
+      "description": "Conheça a apresentação demonstrativa dos perfis e áreas de atuação da equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/projetos/chale-em-madeira",
+      "title": "Madeira, luz e acolhimento. | FH Chalés",
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "description": "A estrutura em A, a transparência da fachada e a iluminação quente revelam um olhar para os detalhes. Um registro publicado pela FH Chalés, em que a madeira aproxima a arquitetura da experiência de estar em casa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/projetos/interiores-em-madeira",
+      "title": "O aconchego está nos detalhes. | FH Chalés",
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "description": "Texturas naturais, espaços de descanso e a presença da madeira. Um olhar para o interior divulgado pela FH Chalés e para os elementos que ajudam a construir uma atmosfera acolhedora.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/projetos/chale-madeira-40m2",
+      "title": "Chalé de madeira de 40 m². | FH Chalés",
+      "h1": "CHALÉ DE MADEIRA DE 40 M².",
+      "description": "Um projeto apresentado pela FH Chalés com 40 m², banheiro em alvenaria e dois quartos no piso superior, sendo um com sacada. A escada modelo Santos Dumont aproveita o espaço e conecta os ambientes de madeira.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/projetos/chale-entregue",
+      "title": "Um refúgio em madeira. | FH Chalés",
+      "h1": "UM REFÚGIO EM MADEIRA.",
+      "description": "Um chalé entregue a cliente e apresentado em vídeo pela FH Chalés. O registro mostra a madeira presente nos ambientes, espaços de descanso e a integração com a área externa. Uma referência real para conversar sobre materiais, ambientes e detalhes do seu projeto.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/projetos/refugio-araucaria",
+      "title": "Refúgio Araucária. | FH Chalés",
+      "h1": "REFÚGIO ARAUCÁRIA.",
+      "description": "Um estudo de chalé em A com pé-direito generoso, grandes aberturas e uma relação contínua entre estar e deck. A madeira aparece como estrutura e textura, enquanto a paisagem orienta as principais vistas.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/projetos/cabana-horizonte",
+      "title": "Cabana Horizonte. | FH Chalés",
+      "h1": "CABANA HORIZONTE.",
+      "description": "Uma proposta de linhas contemporâneas e distribuição essencial. O estar integrado, a luz natural e o deck ampliam a experiência dos ambientes sem perder a escala acolhedora de uma cabana.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/projetos/casa-do-bosque",
+      "title": "Casa do Bosque. | FH Chalés",
+      "h1": "CASA DO BOSQUE.",
+      "description": "O encontro entre convivência e privacidade. Este estudo explora ambientes integrados, superfícies naturais e espaços para receber, com atenção à circulação e aos diferentes momentos do dia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/projetos/mirante-da-serra",
+      "title": "Mirante da Serra. | FH Chalés",
+      "h1": "MIRANTE DA SERRA.",
+      "description": "Um convite para viver a paisagem. Deck, áreas de descanso e continuidade visual entre interior e exterior dão forma a esta referência para quem deseja uma rotina mais próxima da natureza.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/servicos/chales",
+      "title": "Construção de chalés | FH Chalés",
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "description": "Do formato da cobertura à relação com a paisagem, um chalé começa com as escolhas de quem vai viver nele. Converse com a FH Chalés sobre seu terreno, seu estilo e os ambientes que deseja construir.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/servicos/cabanas",
+      "title": "Cabanas de alto padrão | FH Chalés",
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "description": "Uma cabana pode ser compacta e, ao mesmo tempo, generosa nas experiências. A conversa inicial ajuda a organizar a distribuição dos ambientes, as aberturas e os detalhes que tornam o espaço seu.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/servicos/casas",
+      "title": "Casas com identidade | FH Chalés",
+      "h1": "CASAS COM IDENTIDADE",
+      "description": "A FH Chalés se apresenta como construtora de cabanas, chalés e casas de alto padrão. Compartilhe suas referências e necessidades para conhecer as possibilidades de construção e os próximos passos com a equipe.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/servicos/projetos-personalizados",
+      "title": "Projetos personalizados | FH Chalés",
+      "h1": "PROJETOS PERSONALIZADOS",
+      "description": "Da primeira lista de desejos à definição dos ambientes, o projeto ganha direção quando suas referências são organizadas. Distribuição, materiais, aberturas e relação com o terreno são discutidos para construir um escopo com identidade.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/servicos/acabamentos-e-ampliacoes",
+      "title": "Acabamentos e ampliações | FH Chalés",
+      "h1": "ACABAMENTOS E AMPLIAÇÕES",
+      "description": "Revestimentos, decks e ambientes de convivência transformam a experiência de estar em casa. Esta frente apresenta possibilidades de acabamento e expansão para conversar com a equipe e avaliar o que faz sentido para a construção.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/equipe/felipe-ramos",
+      "title": "Felipe Ramos | FH Chalés",
+      "h1": "FELIPE RAMOS",
+      "description": "Transformar referências em uma conversa clara é o primeiro passo. Felipe representa o atendimento que escuta, organiza as prioridades e acompanha cada nova ideia.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/equipe/helena-martins",
+      "title": "Helena Martins | FH Chalés",
+      "h1": "HELENA MARTINS",
+      "description": "Helena representa o olhar para a luz, os materiais e a vida que acontece dentro da casa. Seu foco é conectar as escolhas de cada ambiente ao jeito de morar de cada pessoa.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/equipe/lucas-andrade",
+      "title": "Lucas Andrade | FH Chalés",
+      "h1": "LUCAS ANDRADE",
+      "description": "Lucas representa a atenção ao caminho entre o desenho e o espaço construído. Organização das etapas, cuidado com os detalhes e uma comunicação próxima fazem parte desse trabalho.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/nao-existe",
+      "title": "Página não encontrada | FH Chalés",
+      "h1": "ESSE CAMINHO AINDA NÃO EXISTE.",
+      "description": "Página não encontrada. Conheça os projetos e serviços da FH Chalés.",
+      "overflow": 0,
+      "scroll": 0,
+      "broken": []
+    }
+  ],
+  "menus": [
+    {
+      "width": 768,
+      "height": 1024,
+      "header": 80,
+      "items": [
+        {
+          "font": 20,
+          "height": 51
+        },
+        {
+          "font": 20,
+          "height": 51
+        },
+        {
+          "font": 20,
+          "height": 51
+        },
+        {
+          "font": 20,
+          "height": 51
+        },
+        {
+          "font": 20,
+          "height": 51
+        },
+        {
+          "font": 20,
+          "height": 51
+        },
+        {
+          "font": 20,
+          "height": 51
+        },
+        {
+          "font": 20,
+          "height": 51
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "header": 64,
+      "items": [
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "header": 64,
+      "items": [
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "header": 64,
+      "items": [
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        }
+      ]
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "header": 64,
+      "items": [
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        },
+        {
+          "font": 19,
+          "height": 50
+        }
+      ]
+    }
+  ],
+  "accessibility": [
+    {
+      "route": "/",
+      "violations": []
+    },
+    {
+      "route": "/sobre",
+      "violations": []
+    },
+    {
+      "route": "/contato",
+      "violations": []
+    },
+    {
+      "route": "/planejador",
+      "violations": []
+    },
+    {
+      "route": "/projetos/chale-madeira-40m2",
+      "violations": []
+    },
+    {
+      "route": "/servicos/cabanas",
+      "violations": []
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "flows": [
+    "Recent project galleries, sources and direct reload",
+    "Contact WhatsApp preparation mocked, no message sent",
+    "Footer WhatsApp preparation mocked",
+    "Internal full scroll, masks, reveals and no horizontal overflow"
+  ]
+}

@@ -1,0 +1,6909 @@
+{
+  "files": {
+    "src/components/Hero.tsx": "b1c6c6935d4b8307402872f37553a5becf093c0c610dc16848626bfe88c5e901",
+    "src/components/MotionElements.tsx": "81ec36a80482d1d8e306f70af5a1804b5d38e3f5274521db9c6fcba7315e4a8b",
+    "src/data/siteData.ts": "6623c4e72fa0e842217e838339f80f5c191e49b3f1efd6a85d6fba64461fe685"
+  },
+  "heroes": [
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/",
+      "rect": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "720px",
+        "height": "1440px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "116px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "113.68px",
+        "letterSpacing": "-7.54px",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "227.344px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        440,
+        224.89,
+        1300,
+        227.34
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "1440px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 55%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "src": "/images/hero_chalet_panoramic_1792124265445.jpg"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/sobre",
+      "rect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "760px",
+        "height": "760px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "103px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        440,
+        362.94,
+        1250,
+        103
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "760px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/servicos",
+      "rect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "760px",
+        "height": "760px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "103px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        440,
+        362.94,
+        1250,
+        103
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "760px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/servicos/cabanas",
+      "rect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "760px",
+        "height": "760px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "103px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        440,
+        362.94,
+        1250,
+        103
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "760px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/projetos",
+      "rect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "760px",
+        "height": "760px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "103px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        440,
+        362.94,
+        1250,
+        103
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "760px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/como-funciona",
+      "rect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "760px",
+        "height": "760px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "103px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        440,
+        362.94,
+        1250,
+        103
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "760px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/contato",
+      "rect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "760px",
+        "height": "760px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "206px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        440,
+        311.44,
+        1250,
+        206
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "760px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "src": "/images/chalet_deck_sunset_1792124269626.jpg"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/faq",
+      "rect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "760px",
+        "height": "760px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "103px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        440,
+        362.94,
+        1250,
+        103
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "760px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "src": "/images/chalet_interior_living_1792124268757.jpg"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/equipe",
+      "rect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "760px",
+        "height": "760px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "206px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        440,
+        311.44,
+        1250,
+        206
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "760px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/planejador",
+      "rect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "760px",
+        "height": "760px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "206px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        440,
+        311.44,
+        1250,
+        206
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "760px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        2560,
+        760
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/",
+      "rect": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "720px",
+        "height": "1080px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "116px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "113.68px",
+        "letterSpacing": "-7.54px",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "227.344px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        120,
+        207.69,
+        1300,
+        227.34
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "1080px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 55%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "src": "/images/hero_chalet_panoramic_1792124265445.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/sobre",
+      "rect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "756px",
+        "height": "756px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "103px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        120,
+        360.94,
+        1250,
+        103
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "756px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/servicos",
+      "rect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "756px",
+        "height": "756px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "103px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        120,
+        360.94,
+        1250,
+        103
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "756px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/servicos/cabanas",
+      "rect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "756px",
+        "height": "756px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "103px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        120,
+        360.94,
+        1250,
+        103
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "756px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/projetos",
+      "rect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "756px",
+        "height": "756px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "103px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        120,
+        360.94,
+        1250,
+        103
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "756px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/como-funciona",
+      "rect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "756px",
+        "height": "756px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "103px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        120,
+        360.94,
+        1250,
+        103
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "756px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/contato",
+      "rect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "756px",
+        "height": "756px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "206px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        120,
+        309.44,
+        1250,
+        206
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "756px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "src": "/images/chalet_deck_sunset_1792124269626.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/faq",
+      "rect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "756px",
+        "height": "756px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "103px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        120,
+        360.94,
+        1250,
+        103
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "756px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "src": "/images/chalet_interior_living_1792124268757.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/equipe",
+      "rect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "756px",
+        "height": "756px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "206px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        120,
+        309.44,
+        1250,
+        206
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "756px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/planejador",
+      "rect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "756px",
+        "height": "756px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "100px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "103px",
+        "letterSpacing": "-5.5px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "206px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        120,
+        309.44,
+        1250,
+        206
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "756px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1920,
+        756
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/",
+      "rect": [
+        0,
+        0,
+        1440,
+        900
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "720px",
+        "height": "900px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "102.24px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "100.195px",
+        "letterSpacing": "-6.6456px",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "200.375px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        178.89,
+        1120,
+        200.38
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "900px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 55%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1440,
+        900
+      ],
+      "src": "/images/hero_chalet_panoramic_1792124265445.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/sobre",
+      "rect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "630px",
+        "height": "630px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "93.6px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "96.408px",
+        "letterSpacing": "-5.148px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "96.3906px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        301.25,
+        1250,
+        96.39
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "630px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/servicos",
+      "rect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "630px",
+        "height": "630px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "93.6px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "96.408px",
+        "letterSpacing": "-5.148px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "96.3906px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        301.25,
+        1250,
+        96.39
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "630px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/servicos/cabanas",
+      "rect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "630px",
+        "height": "630px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "93.6px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "96.408px",
+        "letterSpacing": "-5.148px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "96.3906px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        301.25,
+        1250,
+        96.39
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "630px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/projetos",
+      "rect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "630px",
+        "height": "630px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "93.6px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "96.408px",
+        "letterSpacing": "-5.148px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "96.3906px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        301.25,
+        1250,
+        96.39
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "630px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/como-funciona",
+      "rect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "630px",
+        "height": "630px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "93.6px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "96.408px",
+        "letterSpacing": "-5.148px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "96.3906px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        301.25,
+        1250,
+        96.39
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "630px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/contato",
+      "rect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "630px",
+        "height": "630px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "93.6px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "96.408px",
+        "letterSpacing": "-5.148px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "192.781px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        253.05,
+        1250,
+        192.78
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "630px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "src": "/images/chalet_deck_sunset_1792124269626.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/faq",
+      "rect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "630px",
+        "height": "630px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "93.6px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "96.408px",
+        "letterSpacing": "-5.148px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "96.3906px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        301.25,
+        1250,
+        96.39
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "630px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "src": "/images/chalet_interior_living_1792124268757.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/equipe",
+      "rect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "630px",
+        "height": "630px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "93.6px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "96.408px",
+        "letterSpacing": "-5.148px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "192.781px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        253.05,
+        1250,
+        192.78
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "630px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/planejador",
+      "rect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "630px",
+        "height": "630px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "93.6px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "96.408px",
+        "letterSpacing": "-5.148px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "96.3906px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        301.25,
+        1250,
+        96.39
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "630px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1440,
+        630
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/",
+      "rect": [
+        0,
+        0,
+        1366,
+        768
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "720px",
+        "height": "768px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "96.986px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "95.0463px",
+        "letterSpacing": "-6.30409px",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "190.062px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        169.89,
+        1120,
+        190.06
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "768px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 55%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1366,
+        768
+      ],
+      "src": "/images/hero_chalet_panoramic_1792124265445.jpg"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/sobre",
+      "rect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "88.79px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "91.4537px",
+        "letterSpacing": "-4.88345px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "91.4531px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        268.72,
+        1246,
+        91.45
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/servicos",
+      "rect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "88.79px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "91.4537px",
+        "letterSpacing": "-4.88345px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "91.4531px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        268.72,
+        1246,
+        91.45
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/servicos/cabanas",
+      "rect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "88.79px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "91.4537px",
+        "letterSpacing": "-4.88345px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "91.4531px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        268.72,
+        1246,
+        91.45
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/projetos",
+      "rect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "88.79px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "91.4537px",
+        "letterSpacing": "-4.88345px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "91.4531px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        268.72,
+        1246,
+        91.45
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/como-funciona",
+      "rect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "88.79px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "91.4537px",
+        "letterSpacing": "-4.88345px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "91.4531px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        268.72,
+        1246,
+        91.45
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/contato",
+      "rect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "88.79px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "91.4537px",
+        "letterSpacing": "-4.88345px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "182.906px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        222.98,
+        1246,
+        182.91
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "src": "/images/chalet_deck_sunset_1792124269626.jpg"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/faq",
+      "rect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "88.79px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "91.4537px",
+        "letterSpacing": "-4.88345px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "91.4531px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        268.72,
+        1246,
+        91.45
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "src": "/images/chalet_interior_living_1792124268757.jpg"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/equipe",
+      "rect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "88.79px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "91.4537px",
+        "letterSpacing": "-4.88345px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "182.906px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        222.98,
+        1246,
+        182.91
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/planejador",
+      "rect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "88.79px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "91.4537px",
+        "letterSpacing": "-4.88345px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "91.4531px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        60,
+        268.72,
+        1246,
+        91.45
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1366,
+        560
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/",
+      "rect": [
+        0,
+        0,
+        1024,
+        768
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "720px",
+        "height": "768px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "72.704px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "71.2499px",
+        "letterSpacing": "-4.72576px",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "142.469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        169.89,
+        954,
+        142.47
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "768px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 55%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1024,
+        768
+      ],
+      "src": "/images/hero_chalet_panoramic_1792124265445.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/sobre",
+      "rect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "66.56px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "68.5568px",
+        "letterSpacing": "-3.6608px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "68.5469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        280.17,
+        954,
+        68.55
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/servicos",
+      "rect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "66.56px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "68.5568px",
+        "letterSpacing": "-3.6608px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "68.5469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        280.17,
+        954,
+        68.55
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/servicos/cabanas",
+      "rect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "66.56px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "68.5568px",
+        "letterSpacing": "-3.6608px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "68.5469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        280.17,
+        954,
+        68.55
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/projetos",
+      "rect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "66.56px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "68.5568px",
+        "letterSpacing": "-3.6608px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "68.5469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        280.17,
+        954,
+        68.55
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/como-funciona",
+      "rect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "66.56px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "68.5568px",
+        "letterSpacing": "-3.6608px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "68.5469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        280.17,
+        954,
+        68.55
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/contato",
+      "rect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "66.56px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "68.5568px",
+        "letterSpacing": "-3.6608px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "137.094px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        245.89,
+        954,
+        137.09
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "src": "/images/chalet_deck_sunset_1792124269626.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/faq",
+      "rect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "66.56px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "68.5568px",
+        "letterSpacing": "-3.6608px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "68.5469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        280.17,
+        954,
+        68.55
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "src": "/images/chalet_interior_living_1792124268757.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/equipe",
+      "rect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "66.56px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "68.5568px",
+        "letterSpacing": "-3.6608px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "137.094px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        245.89,
+        954,
+        137.09
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "route": "/planejador",
+      "rect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "560px",
+        "height": "560px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "66.56px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "68.5568px",
+        "letterSpacing": "-3.6608px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "68.5469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        280.17,
+        954,
+        68.55
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "560px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        1024,
+        560
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/",
+      "rect": [
+        0,
+        0,
+        768,
+        1024
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "720px",
+        "height": "1024px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "60px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "58.8px",
+        "letterSpacing": "-3.9px",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "117.594px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        198.72,
+        698,
+        117.59
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "1024px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 55%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        768,
+        1024
+      ],
+      "src": "/images/hero_chalet_panoramic_1792124265445.jpg"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/sobre",
+      "rect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "716.8px",
+        "height": "716.797px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "52px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "53.56px",
+        "letterSpacing": "-2.86px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "53.5469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        366.06,
+        698,
+        53.55
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "716.797px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/servicos",
+      "rect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "716.8px",
+        "height": "716.797px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "52px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "53.56px",
+        "letterSpacing": "-2.86px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "53.5469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        366.06,
+        698,
+        53.55
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "716.797px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/servicos/cabanas",
+      "rect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "716.8px",
+        "height": "716.797px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "52px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "53.56px",
+        "letterSpacing": "-2.86px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "53.5469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        366.06,
+        698,
+        53.55
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "716.797px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/projetos",
+      "rect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "716.8px",
+        "height": "716.797px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "52px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "53.56px",
+        "letterSpacing": "-2.86px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "53.5469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        366.06,
+        698,
+        53.55
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "716.797px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/como-funciona",
+      "rect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "716.8px",
+        "height": "716.797px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "52px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "53.56px",
+        "letterSpacing": "-2.86px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "53.5469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        366.06,
+        698,
+        53.55
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "716.797px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/contato",
+      "rect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "716.8px",
+        "height": "716.797px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "52px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "53.56px",
+        "letterSpacing": "-2.86px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "107.094px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        339.3,
+        698,
+        107.09
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "716.797px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "src": "/images/chalet_deck_sunset_1792124269626.jpg"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/faq",
+      "rect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "716.8px",
+        "height": "716.797px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "52px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "53.56px",
+        "letterSpacing": "-2.86px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "53.5469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        366.06,
+        698,
+        53.55
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "716.797px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "src": "/images/chalet_interior_living_1792124268757.jpg"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/equipe",
+      "rect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "716.8px",
+        "height": "716.797px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "52px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "53.56px",
+        "letterSpacing": "-2.86px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "107.094px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        339.3,
+        698,
+        107.09
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "716.797px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/planejador",
+      "rect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "716.8px",
+        "height": "716.797px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "52px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "53.56px",
+        "letterSpacing": "-2.86px",
+        "padding": "0px",
+        "margin": "0px 0px 40px",
+        "minHeight": "0px",
+        "height": "53.5469px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        35,
+        366.06,
+        698,
+        53.55
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "716.797px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        768,
+        716.8
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/",
+      "rect": [
+        0,
+        0,
+        430,
+        932
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "650px",
+        "height": "932px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "47px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "47.47px",
+        "letterSpacing": "-3.055px",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "142.406px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        167.3,
+        390,
+        142.41
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "932px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 55%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        430,
+        932
+      ],
+      "src": "/images/hero_chalet_panoramic_1792124265445.jpg"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/sobre",
+      "rect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        390,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/servicos",
+      "rect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        390,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/servicos/cabanas",
+      "rect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        390,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/projetos",
+      "rect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        390,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/como-funciona",
+      "rect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        390,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/contato",
+      "rect": [
+        0,
+        0,
+        430,
+        498.67
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "498.672px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "201.875px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        179.3,
+        390,
+        201.88
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "498.672px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        430,
+        498.67
+      ],
+      "src": "/images/chalet_deck_sunset_1792124269626.jpg"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/faq",
+      "rect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        390,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "src": "/images/chalet_interior_living_1792124268757.jpg"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/equipe",
+      "rect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "151.406px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        200.19,
+        390,
+        151.41
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "route": "/planejador",
+      "rect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        390,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        430,
+        490
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/",
+      "rect": [
+        0,
+        0,
+        390,
+        844
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "650px",
+        "height": "844px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "47px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "47.47px",
+        "letterSpacing": "-3.055px",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "142.406px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        167.3,
+        350,
+        142.41
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "844px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 55%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        390,
+        844
+      ],
+      "src": "/images/hero_chalet_panoramic_1792124265445.jpg"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/sobre",
+      "rect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        350,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/servicos",
+      "rect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        350,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/servicos/cabanas",
+      "rect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        350,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/projetos",
+      "rect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        350,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/como-funciona",
+      "rect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        350,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/contato",
+      "rect": [
+        0,
+        0,
+        390,
+        498.67
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "498.672px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "201.875px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        179.3,
+        350,
+        201.88
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "498.672px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        390,
+        498.67
+      ],
+      "src": "/images/chalet_deck_sunset_1792124269626.jpg"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/faq",
+      "rect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        350,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "src": "/images/chalet_interior_living_1792124268757.jpg"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/equipe",
+      "rect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "151.406px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        200.19,
+        350,
+        151.41
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/planejador",
+      "rect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        350,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        390,
+        490
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/",
+      "rect": [
+        0,
+        0,
+        375,
+        812
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "650px",
+        "height": "812px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "47px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "47.47px",
+        "letterSpacing": "-3.055px",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "142.406px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        167.3,
+        335,
+        142.41
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "812px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 55%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        375,
+        812
+      ],
+      "src": "/images/hero_chalet_panoramic_1792124265445.jpg"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/sobre",
+      "rect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        335,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/servicos",
+      "rect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        335,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/servicos/cabanas",
+      "rect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        335,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/projetos",
+      "rect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        335,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/como-funciona",
+      "rect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        335,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/contato",
+      "rect": [
+        0,
+        0,
+        375,
+        498.67
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "498.672px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "201.875px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        179.3,
+        335,
+        201.88
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "498.672px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        375,
+        498.67
+      ],
+      "src": "/images/chalet_deck_sunset_1792124269626.jpg"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/faq",
+      "rect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        335,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "src": "/images/chalet_interior_living_1792124268757.jpg"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/equipe",
+      "rect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "151.406px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        200.19,
+        335,
+        151.41
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "route": "/planejador",
+      "rect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        335,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        375,
+        490
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/",
+      "rect": [
+        0,
+        0,
+        360,
+        740
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "650px",
+        "height": "740px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "47px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "47.47px",
+        "letterSpacing": "-3.055px",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "142.406px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        167.3,
+        320,
+        142.41
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "740px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 55%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        360,
+        740
+      ],
+      "src": "/images/hero_chalet_panoramic_1792124265445.jpg"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/sobre",
+      "rect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        320,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/servicos",
+      "rect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        320,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/servicos/cabanas",
+      "rect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        320,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/projetos",
+      "rect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        320,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/como-funciona",
+      "rect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        320,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "src": "/images/fh-publicacao-1.jpg"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/contato",
+      "rect": [
+        0,
+        0,
+        360,
+        498.67
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "498.672px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "201.875px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        179.3,
+        320,
+        201.88
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "498.672px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        360,
+        498.67
+      ],
+      "src": "/images/chalet_deck_sunset_1792124269626.jpg"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/faq",
+      "rect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        320,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "src": "/images/chalet_interior_living_1792124268757.jpg"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/equipe",
+      "rect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "151.406px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        200.19,
+        320,
+        151.41
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "src": "/images/fh-interior-original.webp"
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "route": "/planejador",
+      "rect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "styles": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "490px",
+        "height": "490px",
+        "position": "sticky",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "title": {
+        "fontSize": "49px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "650",
+        "lineHeight": "50.47px",
+        "letterSpacing": "-2.695px",
+        "padding": "0px",
+        "margin": "0px 0px 30px",
+        "minHeight": "0px",
+        "height": "100.938px",
+        "position": "static",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "titleRect": [
+        20,
+        225.42,
+        320,
+        100.94
+      ],
+      "image": {
+        "fontSize": "16px",
+        "fontFamily": "Geist, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "padding": "0px",
+        "margin": "0px",
+        "minHeight": "0px",
+        "height": "490px",
+        "position": "absolute",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "backgroundImage": "none"
+      },
+      "imageRect": [
+        0,
+        0,
+        360,
+        490
+      ],
+      "src": "/images/chalet_model_nordic_1792124267944.jpg"
+    }
+  ]
+}

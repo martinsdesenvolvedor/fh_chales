@@ -1,3 +1,5 @@
+> Atualização mais recente: [Refinamento premium, organização editorial e validação responsiva](REFINAMENTO-PREMIUM.md).
+
 # FH Chalés — refinamento e navegação
 
 > Últimos ajustes: [margens, menu ativo, colagem e novas publicações](AJUSTES-SERVICOS.md).
