@@ -1,0 +1,7 @@
+{
+  "name": "FH Chalés | Construtora de Chalés e Cabanas de Alto Padrão",
+  "description": "Projetos e construção de chalés A-Frame, cabanas modernas e refúgios de alto padrão com engenharia premium e acabamento refinado. Onde a natureza encontra a sofisticação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,664 @@
+[
+  {
+    "url": "https://modu-template.framer.website/",
+    "height": 7919,
+    "headings": [
+      "SIMPLE STEPS TO BUILD BETTER.",
+      "WE CREATE MODULAR",
+      "AND TINY HOMES DESIGNED",
+      "FOR MODERN LIVING.",
+      "DESIGNED TO ADAPT — INSIDE AND OUT.",
+      "A SELECTION OF NEWLY BUILT MODULAR AND TINY HOMES",
+      "WILLOW CREEK FAMILY",
+      "FACTORY HOME BUILD SERVICE",
+      "TINY HOME DESIGN & BUILD",
+      "TAILORED HOME BUILD SERVICE",
+      "GREEN & OFF-GRID SYSTEMS",
+      "HOME ADDITION & REMODEL",
+      "START YOUR MODULAR HOME JOURNEY WITH EASE AND INTELLIGENT DESIGN.",
+      "MOVE IN READY. STAND THE TEST OF TIME.",
+      "OUR CONTACTS",
+      "OUR WORKING HOURS"
+    ],
+    "blocks": [
+      {
+        "name": "Testimonials Section",
+        "height": 774,
+        "top": 5392,
+        "style": null
+      }
+    ],
+    "frames": [
+      {
+        "scrollY": 0,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 2878,
+            "height": 523
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, -209, 0)",
+            "top": 3007,
+            "height": 314
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 6589,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 250,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 2628,
+            "height": 523
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, -209, 0)",
+            "top": 2757,
+            "height": 314
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 6339,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 500,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 2378,
+            "height": 523
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, -209, 0)",
+            "top": 2507,
+            "height": 314
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 6089,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 3700,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": -822,
+            "height": 523
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, -209, 0)",
+            "top": -693,
+            "height": 314
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 2889,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 3950,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": -1072,
+            "height": 523
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, -209, 0)",
+            "top": -943,
+            "height": 314
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 2639,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 4200,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": -1322,
+            "height": 523
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, -209, 0)",
+            "top": -1193,
+            "height": 314
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 2389,
+            "height": 362
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://modu-template.framer.website/about-us",
+    "height": 5977,
+    "headings": [
+      "BUILT MODULAR. BUILT BETTER.",
+      "MODU STARTED WITH A SIMPLE BUT POWERFUL IDEA.",
+      "DEDICATED TEAM FOR LIVABLE SPACES.",
+      "START YOUR MODULAR HOME JOURNEY WITH EASE AND INTELLIGENT DESIGN.",
+      "MOVE IN READY. STAND THE TEST OF TIME.",
+      "OUR CONTACTS",
+      "OUR WORKING HOURS"
+    ],
+    "blocks": [
+      {
+        "name": "Video Section",
+        "height": 680,
+        "top": 1679,
+        "style": null
+      },
+      {
+        "name": "Video Overlay",
+        "height": 780,
+        "top": 1679,
+        "style": "will-change:transform;opacity:1;transform:translateY(50px)"
+      },
+      {
+        "name": "Our Team Section",
+        "height": 1091,
+        "top": 2359,
+        "style": null
+      },
+      {
+        "name": "Team Cards Wrapper",
+        "height": 521,
+        "top": 2799,
+        "style": null
+      },
+      {
+        "name": "Testimonials Section",
+        "height": 774,
+        "top": 3450,
+        "style": null
+      }
+    ],
+    "frames": [
+      {
+        "scrollY": 0,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 1119,
+            "height": 430
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 4647,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 220,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 899,
+            "height": 430
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 4427,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 440,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 679,
+            "height": 430
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 4207,
+            "height": 362
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://modu-template.framer.website/how-it-works",
+    "height": 4886,
+    "headings": [
+      "FROM IDEA TO YOUR HOME ",
+      "Consultation & Planning",
+      "Design & Customization",
+      "Factory Construction",
+      "Delivery & Installation",
+      "START YOUR MODULAR HOME JOURNEY WITH EASE AND INTELLIGENT DESIGN.",
+      "MOVE IN READY. STAND THE TEST OF TIME.",
+      "OUR CONTACTS",
+      "OUR WORKING HOURS"
+    ],
+    "blocks": [],
+    "frames": [
+      {
+        "scrollY": 0,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 742,
+            "height": 500
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)",
+            "top": 1402,
+            "height": 500
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)",
+            "top": 2032,
+            "height": 500
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)",
+            "top": 2662,
+            "height": 500
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 3555,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 220,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 522,
+            "height": 500
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)",
+            "top": 1182,
+            "height": 500
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)",
+            "top": 1812,
+            "height": 500
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)",
+            "top": 2442,
+            "height": 500
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 3335,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 440,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 302,
+            "height": 500
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)",
+            "top": 962,
+            "height": 500
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)",
+            "top": 1592,
+            "height": 500
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)",
+            "top": 2222,
+            "height": 500
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 3115,
+            "height": 362
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://modu-template.framer.website/projects",
+    "height": 6525,
+    "headings": [
+      "INNOVATIVE PROJECTS",
+      "HARBOR VIEW COMPACT",
+      "MOSSWOOD TINY RETREAT",
+      "DRIFTWAY STUDIO POD",
+      "WILLOW CREEK FAMILY",
+      "PINE RIDGE MODULAR",
+      "CEDAR LANE TINY HOME",
+      "START YOUR MODULAR HOME JOURNEY WITH EASE AND INTELLIGENT DESIGN.",
+      "MOVE IN READY. STAND THE TEST OF TIME.",
+      "OUR CONTACTS",
+      "OUR WORKING HOURS"
+    ],
+    "blocks": [],
+    "frames": [
+      {
+        "scrollY": 0,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 5195,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 220,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 4975,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 440,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 4755,
+            "height": 362
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://modu-template.framer.website/services",
+    "height": 4266,
+    "headings": [
+      "BUILD SMART, LIVE SIMPLY",
+      "Factory Home Build Service",
+      "Tiny Home Design & Build",
+      "Tailored Home Build Service",
+      "Green & Off-Grid Systems",
+      "Home Addition & Remodel",
+      "START YOUR MODULAR HOME JOURNEY WITH EASE AND INTELLIGENT DESIGN.",
+      "MOVE IN READY. STAND THE TEST OF TIME.",
+      "OUR CONTACTS",
+      "OUR WORKING HOURS"
+    ],
+    "blocks": [
+      {
+        "name": "Testimonials Section",
+        "height": 774,
+        "top": 1739,
+        "style": null
+      }
+    ],
+    "frames": [
+      {
+        "scrollY": 0,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 2936,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 220,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 2716,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 440,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 2496,
+            "height": 362
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://modu-template.framer.website/faq",
+    "height": 2849,
+    "headings": [
+      "CLARITY AT EVERY STEP",
+      "START YOUR MODULAR HOME JOURNEY WITH EASE AND INTELLIGENT DESIGN.",
+      "MOVE IN READY. STAND THE TEST OF TIME.",
+      "OUR CONTACTS",
+      "OUR WORKING HOURS"
+    ],
+    "blocks": [],
+    "frames": [
+      {
+        "scrollY": 0,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 1518,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 220,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 1298,
+            "height": 362
+          }
+        ]
+      },
+      {
+        "scrollY": 440,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 1078,
+            "height": 362
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://modu-template.framer.website/projects/willow-creek-family",
+    "height": 4187,
+    "headings": [
+      "WILLOW CREEK FAMILY",
+      "PROJECT OVERVIEW",
+      "DESIGN APPROACH",
+      "Project Details",
+      "A SELECTION OF NEWLY BUILT MODULAR AND TINY HOMES",
+      "PINE RIDGE MODULAR",
+      "SCALABLE HOMES",
+      "CREATED FOR LIVING.",
+      "MOVE IN READY. STAND THE TEST OF TIME.",
+      "OUR CONTACTS",
+      "OUR WORKING HOURS"
+    ],
+    "blocks": [
+      {
+        "name": "Sticky Block",
+        "height": 469,
+        "top": 190,
+        "style": null
+      }
+    ],
+    "frames": [
+      {
+        "scrollY": 0,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 2409,
+            "height": 523
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, -209, 0)",
+            "top": 2538,
+            "height": 314
+          }
+        ]
+      },
+      {
+        "scrollY": 220,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 2189,
+            "height": 523
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, -209, 0)",
+            "top": 2318,
+            "height": 314
+          }
+        ]
+      },
+      {
+        "scrollY": 440,
+        "images": [
+          {
+            "name": "Image Wrapper",
+            "transform": "none",
+            "top": 1969,
+            "height": 523
+          },
+          {
+            "name": "Image Wrapper",
+            "transform": "matrix(1, 0, 0, 1, -209, 0)",
+            "top": 2098,
+            "height": 314
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://modu-template.framer.website/services/factory-home-build-service",
+    "height": 3758,
+    "headings": [
+      "FACTORY HOME BUILD SERVICE",
+      "BUILDING MODERN HOMES WITH AN EFFICIENT FACTORY METHOD",
+      "Controlled Factory Builds",
+      "Faster Build Timelines",
+      "Flexible Modular Layouts",
+      "Clear Costs & Schedule",
+      "WE ENSURE TOP-NOTCH QUALITY IN OUR SERVICES.",
+      "Tiny Home Design & Build",
+      "Tailored Home Build Service",
+      "Green & Off-Grid Systems",
+      "MOVE IN READY. STAND THE TEST OF TIME.",
+      "OUR CONTACTS",
+      "OUR WORKING HOURS"
+    ],
+    "blocks": [],
+    "frames": [
+      {
+        "scrollY": 0,
+        "images": []
+      },
+      {
+        "scrollY": 220,
+        "images": []
+      },
+      {
+        "scrollY": 440,
+        "images": []
+      }
+    ]
+  }
+]

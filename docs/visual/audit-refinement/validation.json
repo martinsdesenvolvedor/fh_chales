@@ -1,0 +1,447 @@
+{
+  "pinning": [
+    {
+      "width": 1366,
+      "route": "/",
+      "before": 0,
+      "after": 0,
+      "position": "sticky"
+    },
+    {
+      "width": 1366,
+      "route": "/sobre",
+      "before": 0,
+      "after": 0,
+      "position": "sticky"
+    },
+    {
+      "width": 1366,
+      "route": "/como-funciona",
+      "before": 0,
+      "after": 0,
+      "position": "sticky"
+    },
+    {
+      "width": 1366,
+      "route": "/servicos",
+      "before": 0,
+      "after": 0,
+      "position": "sticky"
+    },
+    {
+      "width": 1366,
+      "route": "/faq",
+      "before": 0,
+      "after": 0,
+      "position": "sticky"
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "before": 0,
+      "after": 0,
+      "position": "sticky"
+    },
+    {
+      "width": 390,
+      "route": "/sobre",
+      "before": 0,
+      "after": 0,
+      "position": "sticky"
+    },
+    {
+      "width": 390,
+      "route": "/como-funciona",
+      "before": 0,
+      "after": 0,
+      "position": "sticky"
+    },
+    {
+      "width": 390,
+      "route": "/servicos",
+      "before": 0,
+      "after": 0,
+      "position": "sticky"
+    },
+    {
+      "width": 390,
+      "route": "/faq",
+      "before": 0,
+      "after": 0,
+      "position": "sticky"
+    }
+  ],
+  "routes": [
+    {
+      "route": "/",
+      "width": 1366,
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/sobre",
+      "width": 1366,
+      "h1": "SOBRE A FH CHALÉS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/como-funciona",
+      "width": 1366,
+      "h1": "COMO FUNCIONA",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/projetos",
+      "width": 1366,
+      "h1": "NOSSOS PROJETOS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/projetos/chale-em-madeira",
+      "width": 1366,
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/projetos/interiores-em-madeira",
+      "width": 1366,
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/projetos/refugio-araucaria",
+      "width": 1366,
+      "h1": "REFÚGIO ARAUCÁRIA.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/projetos/cabana-horizonte",
+      "width": 1366,
+      "h1": "CABANA HORIZONTE.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/projetos/casa-do-bosque",
+      "width": 1366,
+      "h1": "CASA DO BOSQUE.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/projetos/mirante-da-serra",
+      "width": 1366,
+      "h1": "MIRANTE DA SERRA.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/servicos",
+      "width": 1366,
+      "h1": "NOSSOS SERVIÇOS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/servicos/chales",
+      "width": 1366,
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/servicos/cabanas",
+      "width": 1366,
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/servicos/casas",
+      "width": 1366,
+      "h1": "CASAS COM IDENTIDADE",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/servicos/projetos-personalizados",
+      "width": 1366,
+      "h1": "PROJETOS PERSONALIZADOS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/servicos/acabamentos-e-ampliacoes",
+      "width": 1366,
+      "h1": "ACABAMENTOS E AMPLIAÇÕES",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/equipe",
+      "width": 1366,
+      "h1": "PESSOAS QUE DÃO FORMA ÀS IDEIAS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/equipe/felipe-ramos",
+      "width": 1366,
+      "h1": "FELIPE RAMOS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/equipe/helena-martins",
+      "width": 1366,
+      "h1": "HELENA MARTINS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/equipe/lucas-andrade",
+      "width": 1366,
+      "h1": "LUCAS ANDRADE",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/contato",
+      "width": 1366,
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/faq",
+      "width": 1366,
+      "h1": "PERGUNTAS FREQUENTES",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/planejador",
+      "width": 1366,
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/sobre",
+      "width": 390,
+      "h1": "SOBRE A FH CHALÉS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/como-funciona",
+      "width": 390,
+      "h1": "COMO FUNCIONA",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/projetos",
+      "width": 390,
+      "h1": "NOSSOS PROJETOS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/projetos/chale-em-madeira",
+      "width": 390,
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/projetos/interiores-em-madeira",
+      "width": 390,
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/projetos/refugio-araucaria",
+      "width": 390,
+      "h1": "REFÚGIO ARAUCÁRIA.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/projetos/cabana-horizonte",
+      "width": 390,
+      "h1": "CABANA HORIZONTE.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/projetos/casa-do-bosque",
+      "width": 390,
+      "h1": "CASA DO BOSQUE.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/projetos/mirante-da-serra",
+      "width": 390,
+      "h1": "MIRANTE DA SERRA.",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/servicos",
+      "width": 390,
+      "h1": "NOSSOS SERVIÇOS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/servicos/chales",
+      "width": 390,
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/servicos/cabanas",
+      "width": 390,
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/servicos/casas",
+      "width": 390,
+      "h1": "CASAS COM IDENTIDADE",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/servicos/projetos-personalizados",
+      "width": 390,
+      "h1": "PROJETOS PERSONALIZADOS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/servicos/acabamentos-e-ampliacoes",
+      "width": 390,
+      "h1": "ACABAMENTOS E AMPLIAÇÕES",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/equipe",
+      "width": 390,
+      "h1": "PESSOAS QUE DÃO FORMA ÀS IDEIAS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/equipe/felipe-ramos",
+      "width": 390,
+      "h1": "FELIPE RAMOS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/equipe/helena-martins",
+      "width": 390,
+      "h1": "HELENA MARTINS",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/equipe/lucas-andrade",
+      "width": 390,
+      "h1": "LUCAS ANDRADE",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/contato",
+      "width": 390,
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/faq",
+      "width": 390,
+      "h1": "PERGUNTAS FREQUENTES",
+      "overflow": 0,
+      "finance": false
+    },
+    {
+      "route": "/planejador",
+      "width": 390,
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "overflow": 0,
+      "finance": false
+    }
+  ],
+  "accessibility": [
+    {
+      "route": "/sobre",
+      "violations": []
+    },
+    {
+      "route": "/projetos/chale-em-madeira",
+      "violations": []
+    },
+    {
+      "route": "/servicos/chales",
+      "violations": []
+    },
+    {
+      "route": "/equipe",
+      "violations": []
+    },
+    {
+      "route": "/contato",
+      "violations": []
+    },
+    {
+      "route": "/faq",
+      "violations": []
+    }
+  ],
+  "errors": [],
+  "flows": {
+    "faq": "Initially closed; open and close work",
+    "team": "Three team cards and profile route passed",
+    "projectGallery": "Photo selection passed",
+    "footer": "WhatsApp message prepared; opening mocked, nothing sent"
+  },
+  "parallax1366": {
+    "before": "matrix(1, 0, 0, 1, 0, 2.9316)",
+    "after": "matrix(1, 0, 0, 1, 0, -11.4007)"
+  },
+  "collage1366": {
+    "before": "matrix(1, 0, 0, 1, -17.8699, 4.01786)",
+    "after": "matrix(1, 0, 0, 1, -6.39031, -12.0536)"
+  },
+  "parallax390": {
+    "before": "matrix(1, 0, 0, 1, 0, 2.61168)",
+    "after": "matrix(1, 0, 0, 1, 0, -12.5086)"
+  },
+  "collage390": {
+    "before": "matrix(1, 0, 0, 1, -17.4297, 3.40153)",
+    "after": "matrix(1, 0, 0, 1, -5.92072, -12.711)"
+  }
+}

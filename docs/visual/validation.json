@@ -1,0 +1,513 @@
+{
+  "routes": [
+    {
+      "width": 1920,
+      "route": "/",
+      "title": "Chalés, cabanas e casas de alto padrão | FH Chalés",
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1920,
+      "route": "/sobre",
+      "title": "Sobre a FH Chalés | FH Chalés",
+      "h1": "SOBRE A FH CHALÉS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1920,
+      "route": "/como-funciona",
+      "title": "Como funciona | FH Chalés",
+      "h1": "COMO FUNCIONA",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1920,
+      "route": "/projetos",
+      "title": "Nossos projetos | FH Chalés",
+      "h1": "NOSSOS PROJETOS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1920,
+      "route": "/projetos/chale-em-madeira",
+      "title": "Madeira, luz e acolhimento. | FH Chalés",
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1920,
+      "route": "/projetos/interiores-em-madeira",
+      "title": "O aconchego está nos detalhes. | FH Chalés",
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1920,
+      "route": "/servicos",
+      "title": "Nossos serviços | FH Chalés",
+      "h1": "NOSSOS SERVIÇOS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1920,
+      "route": "/servicos/chales",
+      "title": "Construção de chalés | FH Chalés",
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1920,
+      "route": "/servicos/cabanas",
+      "title": "Cabanas de alto padrão | FH Chalés",
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1920,
+      "route": "/servicos/casas",
+      "title": "Casas com identidade | FH Chalés",
+      "h1": "CASAS COM IDENTIDADE",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1920,
+      "route": "/contato",
+      "title": "Vamos construir seu próximo capítulo | FH Chalés",
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1920,
+      "route": "/faq",
+      "title": "Perguntas frequentes | FH Chalés",
+      "h1": "PERGUNTAS FREQUENTES",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1920,
+      "route": "/planejador",
+      "title": "Planeje seu refúgio | FH Chalés",
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1366,
+      "route": "/",
+      "title": "Chalés, cabanas e casas de alto padrão | FH Chalés",
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1366,
+      "route": "/sobre",
+      "title": "Sobre a FH Chalés | FH Chalés",
+      "h1": "SOBRE A FH CHALÉS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1366,
+      "route": "/como-funciona",
+      "title": "Como funciona | FH Chalés",
+      "h1": "COMO FUNCIONA",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1366,
+      "route": "/projetos",
+      "title": "Nossos projetos | FH Chalés",
+      "h1": "NOSSOS PROJETOS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1366,
+      "route": "/projetos/chale-em-madeira",
+      "title": "Madeira, luz e acolhimento. | FH Chalés",
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1366,
+      "route": "/projetos/interiores-em-madeira",
+      "title": "O aconchego está nos detalhes. | FH Chalés",
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1366,
+      "route": "/servicos",
+      "title": "Nossos serviços | FH Chalés",
+      "h1": "NOSSOS SERVIÇOS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1366,
+      "route": "/servicos/chales",
+      "title": "Construção de chalés | FH Chalés",
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1366,
+      "route": "/servicos/cabanas",
+      "title": "Cabanas de alto padrão | FH Chalés",
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1366,
+      "route": "/servicos/casas",
+      "title": "Casas com identidade | FH Chalés",
+      "h1": "CASAS COM IDENTIDADE",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1366,
+      "route": "/contato",
+      "title": "Vamos construir seu próximo capítulo | FH Chalés",
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1366,
+      "route": "/faq",
+      "title": "Perguntas frequentes | FH Chalés",
+      "h1": "PERGUNTAS FREQUENTES",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 1366,
+      "route": "/planejador",
+      "title": "Planeje seu refúgio | FH Chalés",
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 768,
+      "route": "/",
+      "title": "Chalés, cabanas e casas de alto padrão | FH Chalés",
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 768,
+      "route": "/sobre",
+      "title": "Sobre a FH Chalés | FH Chalés",
+      "h1": "SOBRE A FH CHALÉS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 768,
+      "route": "/como-funciona",
+      "title": "Como funciona | FH Chalés",
+      "h1": "COMO FUNCIONA",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 768,
+      "route": "/projetos",
+      "title": "Nossos projetos | FH Chalés",
+      "h1": "NOSSOS PROJETOS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 768,
+      "route": "/projetos/chale-em-madeira",
+      "title": "Madeira, luz e acolhimento. | FH Chalés",
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 768,
+      "route": "/projetos/interiores-em-madeira",
+      "title": "O aconchego está nos detalhes. | FH Chalés",
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 768,
+      "route": "/servicos",
+      "title": "Nossos serviços | FH Chalés",
+      "h1": "NOSSOS SERVIÇOS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 768,
+      "route": "/servicos/chales",
+      "title": "Construção de chalés | FH Chalés",
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 768,
+      "route": "/servicos/cabanas",
+      "title": "Cabanas de alto padrão | FH Chalés",
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 768,
+      "route": "/servicos/casas",
+      "title": "Casas com identidade | FH Chalés",
+      "h1": "CASAS COM IDENTIDADE",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 768,
+      "route": "/contato",
+      "title": "Vamos construir seu próximo capítulo | FH Chalés",
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 768,
+      "route": "/faq",
+      "title": "Perguntas frequentes | FH Chalés",
+      "h1": "PERGUNTAS FREQUENTES",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 768,
+      "route": "/planejador",
+      "title": "Planeje seu refúgio | FH Chalés",
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "title": "Chalés, cabanas e casas de alto padrão | FH Chalés",
+      "h1": "UM LUGAR PARA VIVER A NATUREZA.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 390,
+      "route": "/sobre",
+      "title": "Sobre a FH Chalés | FH Chalés",
+      "h1": "SOBRE A FH CHALÉS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 390,
+      "route": "/como-funciona",
+      "title": "Como funciona | FH Chalés",
+      "h1": "COMO FUNCIONA",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 390,
+      "route": "/projetos",
+      "title": "Nossos projetos | FH Chalés",
+      "h1": "NOSSOS PROJETOS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 390,
+      "route": "/projetos/chale-em-madeira",
+      "title": "Madeira, luz e acolhimento. | FH Chalés",
+      "h1": "MADEIRA, LUZ E ACOLHIMENTO.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 390,
+      "route": "/projetos/interiores-em-madeira",
+      "title": "O aconchego está nos detalhes. | FH Chalés",
+      "h1": "O ACONCHEGO ESTÁ NOS DETALHES.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 390,
+      "route": "/servicos",
+      "title": "Nossos serviços | FH Chalés",
+      "h1": "NOSSOS SERVIÇOS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 390,
+      "route": "/servicos/chales",
+      "title": "Construção de chalés | FH Chalés",
+      "h1": "CONSTRUÇÃO DE CHALÉS",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 390,
+      "route": "/servicos/cabanas",
+      "title": "Cabanas de alto padrão | FH Chalés",
+      "h1": "CABANAS DE ALTO PADRÃO",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 390,
+      "route": "/servicos/casas",
+      "title": "Casas com identidade | FH Chalés",
+      "h1": "CASAS COM IDENTIDADE",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 390,
+      "route": "/contato",
+      "title": "Vamos construir seu próximo capítulo | FH Chalés",
+      "h1": "VAMOS CONSTRUIR SEU PRÓXIMO CAPÍTULO",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 390,
+      "route": "/faq",
+      "title": "Perguntas frequentes | FH Chalés",
+      "h1": "PERGUNTAS FREQUENTES",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    },
+    {
+      "width": 390,
+      "route": "/planejador",
+      "title": "Planeje seu refúgio | FH Chalés",
+      "h1": "SEU REFÚGIO, DO SEU JEITO.",
+      "overflow": 0,
+      "scroll": 0,
+      "finance": false
+    }
+  ],
+  "accessibility": [
+    {
+      "route": "/",
+      "violations": []
+    },
+    {
+      "route": "/contato",
+      "violations": []
+    },
+    {
+      "route": "/faq",
+      "violations": []
+    },
+    {
+      "route": "/planejador",
+      "violations": []
+    }
+  ],
+  "errors": [],
+  "requests": [],
+  "flows": {
+    "navigation": "Mobile, back and direct refresh passed",
+    "planner": "Area, WhatsApp link, reference modal, tabs and Escape passed",
+    "contact": "Existing form prepares WhatsApp message; opening mocked, no message sent",
+    "environment": "Photo tabs, keyboard selection and project carousel passed"
+  },
+  "motion": {
+    "crossfade": "0.227327",
+    "pinnedOpening": [
+      0,
+      0
+    ],
+    "wordReveal": [
+      "0.22",
+      "1"
+    ],
+    "mask": "Photo mask completed",
+    "fullScroll1366": "All content revealed, no overflow",
+    "fullScroll390": "All content revealed, no overflow",
+    "reduced": "Visible content without entrance motion"
+  }
+}

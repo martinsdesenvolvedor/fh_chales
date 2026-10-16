@@ -1,0 +1,35 @@
+import React from 'react';
+import {IMAGES,SERVICES,WORKS,TITLES,TEAM} from '../data/siteData';
+import {AboutSection} from '../components/AboutSection';
+import {FeaturesBento} from '../components/FeaturesBento';
+import {Methodology} from '../components/Methodology';
+import {ProjectShowcase} from '../components/ProjectShowcase';
+import {ServicesSection} from '../components/ServicesSection';
+import {FAQ} from '../components/FAQ';
+import {ContactSection} from '../components/ContactSection';
+import {Reveal,Parallax,ScrollTitle,LinkButton} from '../components/MotionElements';
+import {COMPANY_CONTACT} from '../data/projectsData';
+import {StorySection,TeamSection,TeamProfile,BehindTheScenes,ProcessTimeline,CollageCTA,ProjectGallery} from '../components/EditorialSections';
+export function PageHero({title,image,eyebrow='FH Chalés'}:{title:string;image:string;eyebrow?:string}){return <section className="fh-page-hero"><Parallax src={image} pinned/><div className="fh-page-shade"/><div className="fh-shell"><Reveal><p className="fh-eyebrow">{eyebrow}</p><h1>{title}</h1><nav aria-label="Você está em"><a href="/">Início</a><span>/</span><span aria-current="page">{eyebrow==='FH Chalés'?title:eyebrow}</span></nav></Reveal></div></section>;}
+export function ClosingCTA(){return <CollageCTA/>;}
+
+export function ContentPage({path}:{path:string}){
+const work=WORKS.find(w=>'/projetos/'+w.id===path);const service=SERVICES.find(s=>'/servicos/'+s.id===path);
+const person=TEAM.find(t=>'/equipe/'+t.id===path);
+if(person)return <><TeamProfile person={person}/><TeamSection/><ClosingCTA/></>;
+if(work){const concept=work.type.startsWith('Estudo');return <><section className="fh-project-detail-page"><div className="fh-shell fh-project-detail-grid"><div className="fh-project-sticky"><Reveal><p className="fh-eyebrow">{work.type}</p><h1>{work.title}</h1><p className="fh-project-intro">{work.description}</p></Reveal><dl className="fh-project-facts"><div><dt>Categoria</dt><dd>{work.type.split(' · ')[1]}</dd></div><div><dt>Apresentação</dt><dd>{concept?'Estudo arquitetônico':'Registro FH Chalés'}</dd></div><div><dt>Materiais em destaque</dt><dd>Madeira, vidro e luz natural</dd></div><div><dt>Projeto</dt><dd>{concept?'Referência demonstrativa':'Conheça a publicação original'}</dd></div></dl><LinkButton href="/contato">Converse sobre seu projeto</LinkButton><a className="fh-text-link" href="/projetos">Todos os projetos ↗</a></div><ProjectGallery images={[work.image,work.secondary]} title={work.title}/></div></section><section className="fh-section fh-shell"><div className="fh-detail-layout"><Reveal><p className="fh-eyebrow">Visão do projeto</p><h2>Entre a ideia<br/>e a paisagem.</h2></Reveal><Reveal><p className="fh-large-copy">{work.description}</p><p>O ponto de partida é a relação entre os ambientes e o terreno. A posição das aberturas, a presença da madeira e a continuidade entre interior e exterior ajudam a compor um espaço com identidade.</p>{work.source&&<a className="fh-text-link" href={work.source} target="_blank" rel="noreferrer">Ver publicação original ↗</a>}</Reveal></div><div className="fh-design-approach"><ScrollTitle>Escolhas que fazem o espaço acontecer.</ScrollTitle><div className="fh-values">{[['Luz e aberturas','A luz natural participa dos ambientes ao longo do dia e aproxima as áreas de estar da paisagem.'],['Texturas e materiais','Madeira, superfícies naturais e elementos de acabamento compõem uma sensação de acolhimento.'],['Convivência e descanso','O desenho dos ambientes considera momentos de encontro, privacidade e conexão com o exterior.']].map(([title,text])=><Reveal key={title}><h3>{title}</h3><p>{text}</p></Reveal>)}</div></div></section><ProjectShowcase/><ClosingCTA/></>;}
+
+if(service)return <><PageHero title={service.name} image={service.image} eyebrow="Nossos serviços"/><section className="fh-section"><div className="fh-shell fh-detail-layout"><ScrollTitle>{service.text}</ScrollTitle><Reveal><p className="fh-large-copy">{service.body}</p><p>A conversa sobre o projeto reúne o que você deseja viver no espaço, as características do terreno e as escolhas de arquitetura. Esses elementos ajudam a construir uma proposta alinhada, antes de qualquer etapa de execução.</p><LinkButton href="/contato">Solicitar orçamento</LinkButton></Reveal></div><div className="fh-shell fh-service-benefits">{[['Planejamento claro','Prioridades, ambientes e referências organizados desde a conversa inicial.'],['Escolhas com identidade','Materiais, proporções e acabamentos que fazem sentido para o seu projeto.'],['Olhar para o terreno','Implantação, acesso e relação com a paisagem entram na avaliação.'],['Acompanhamento próximo','Etapas alinhadas para manter clareza sobre o caminho da construção.']].map(([title,text],i)=><Reveal key={title} delay={i*.08}><span>0{i+1}</span><h3>{title}</h3><p>{text}</p></Reveal>)}</div></section><BehindTheScenes/><section className="fh-section fh-shell"><div className="fh-service-editorial"><Reveal><p className="fh-eyebrow">O cuidado faz parte do processo</p><h2>Qualidade é uma escolha em cada etapa.</h2><p className="fh-large-copy">Do estudo dos ambientes à conversa sobre os acabamentos, cada detalhe participa do resultado. O objetivo é construir um lugar que você reconheça como seu.</p></Reveal><Reveal image><img src={service.image} alt={service.name}/></Reveal></div></section><Methodology/><FAQ/><ServicesSection/><ClosingCTA/></>;
+
+const images:Record<string,string>={'/sobre':IMAGES.interior,'/como-funciona':IMAGES.real,'/projetos':IMAGES.real,'/servicos':IMAGES.nordic,'/contato':IMAGES.deck,'/faq':IMAGES.inside,'/equipe':IMAGES.interior};
+if(!TITLES[path])return <><PageHero title="Esse caminho ainda não existe." image={IMAGES.hero}/><section className="fh-section fh-shell"><h2>Vamos voltar à natureza?</h2><LinkButton href="/">Voltar ao início</LinkButton></section></>;
+return <><PageHero title={TITLES[path]} image={images[path]||IMAGES.hero}/>
+{path==='/sobre'&&<><StorySection/><BehindTheScenes/><TeamSection/><section className="fh-section fh-shell"><Reveal><p className="fh-eyebrow">Nossa essência</p><h2>Qualidade em primeiro lugar.</h2></Reveal><div className="fh-values">{[['01','Natureza','Uma arquitetura que valoriza o entorno e convida a desacelerar.'],['02','Cuidado','Atenção aos detalhes e ao que torna cada ambiente acolhedor.'],['03','Identidade','Espaços que começam com as suas referências e o seu jeito de viver.']].map(([n,t,d])=><Reveal key={n}><span>{n}</span><h3>{t}</h3><p>{d}</p></Reveal>)}</div></section></>}
+{path==='/como-funciona'&&<><ProcessTimeline/><FAQ/></>}
+{path==='/projetos'&&<ProjectShowcase listing/>}
+{path==='/servicos'&&<><ServicesSection/><BehindTheScenes/><FAQ/></>}
+{path==='/faq'&&<FAQ/>}
+{path==='/equipe'&&<><TeamSection/><BehindTheScenes/></>}
+{path==='/contato'&&<div className="fh-legacy"><ContactSection/></div>}
+{path!=='/contato'&&<ClosingCTA/>}</>;
+}
