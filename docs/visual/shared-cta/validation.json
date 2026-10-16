@@ -1,0 +1,591 @@
+{
+  "routes": [
+    {
+      "width": 1366,
+      "route": "/"
+    },
+    {
+      "width": 1366,
+      "route": "/sobre"
+    },
+    {
+      "width": 1366,
+      "route": "/como-funciona"
+    },
+    {
+      "width": 1366,
+      "route": "/projetos"
+    },
+    {
+      "width": 1366,
+      "route": "/servicos"
+    },
+    {
+      "width": 1366,
+      "route": "/faq"
+    },
+    {
+      "width": 1366,
+      "route": "/equipe"
+    },
+    {
+      "width": 1366,
+      "route": "/projetos/chale-em-madeira"
+    },
+    {
+      "width": 1366,
+      "route": "/projetos/interiores-em-madeira"
+    },
+    {
+      "width": 1366,
+      "route": "/projetos/chale-madeira-40m2"
+    },
+    {
+      "width": 1366,
+      "route": "/projetos/chale-entregue"
+    },
+    {
+      "width": 1366,
+      "route": "/projetos/refugio-araucaria"
+    },
+    {
+      "width": 1366,
+      "route": "/projetos/cabana-horizonte"
+    },
+    {
+      "width": 1366,
+      "route": "/projetos/casa-do-bosque"
+    },
+    {
+      "width": 1366,
+      "route": "/projetos/mirante-da-serra"
+    },
+    {
+      "width": 1366,
+      "route": "/servicos/chales"
+    },
+    {
+      "width": 1366,
+      "route": "/servicos/cabanas"
+    },
+    {
+      "width": 1366,
+      "route": "/servicos/casas"
+    },
+    {
+      "width": 1366,
+      "route": "/servicos/projetos-personalizados"
+    },
+    {
+      "width": 1366,
+      "route": "/servicos/acabamentos-e-ampliacoes"
+    },
+    {
+      "width": 1366,
+      "route": "/equipe/felipe-ramos"
+    },
+    {
+      "width": 1366,
+      "route": "/equipe/helena-martins"
+    },
+    {
+      "width": 1366,
+      "route": "/equipe/lucas-andrade"
+    },
+    {
+      "width": 390,
+      "route": "/"
+    },
+    {
+      "width": 390,
+      "route": "/sobre"
+    },
+    {
+      "width": 390,
+      "route": "/como-funciona"
+    },
+    {
+      "width": 390,
+      "route": "/projetos"
+    },
+    {
+      "width": 390,
+      "route": "/servicos"
+    },
+    {
+      "width": 390,
+      "route": "/faq"
+    },
+    {
+      "width": 390,
+      "route": "/equipe"
+    },
+    {
+      "width": 390,
+      "route": "/projetos/chale-em-madeira"
+    },
+    {
+      "width": 390,
+      "route": "/projetos/interiores-em-madeira"
+    },
+    {
+      "width": 390,
+      "route": "/projetos/chale-madeira-40m2"
+    },
+    {
+      "width": 390,
+      "route": "/projetos/chale-entregue"
+    },
+    {
+      "width": 390,
+      "route": "/projetos/refugio-araucaria"
+    },
+    {
+      "width": 390,
+      "route": "/projetos/cabana-horizonte"
+    },
+    {
+      "width": 390,
+      "route": "/projetos/casa-do-bosque"
+    },
+    {
+      "width": 390,
+      "route": "/projetos/mirante-da-serra"
+    },
+    {
+      "width": 390,
+      "route": "/servicos/chales"
+    },
+    {
+      "width": 390,
+      "route": "/servicos/cabanas"
+    },
+    {
+      "width": 390,
+      "route": "/servicos/casas"
+    },
+    {
+      "width": 390,
+      "route": "/servicos/projetos-personalizados"
+    },
+    {
+      "width": 390,
+      "route": "/servicos/acabamentos-e-ampliacoes"
+    },
+    {
+      "width": 390,
+      "route": "/equipe/felipe-ramos"
+    },
+    {
+      "width": 390,
+      "route": "/equipe/helena-martins"
+    },
+    {
+      "width": 390,
+      "route": "/equipe/lucas-andrade"
+    }
+  ],
+  "motion": [
+    {
+      "width": 2560,
+      "height": 1440,
+      "samples": [
+        [
+          {
+            "x": 523.451416015625,
+            "right": 922.248291015625,
+            "distance": 557.150146484375
+          },
+          {
+            "x": 1637.737548828125,
+            "right": 2036.550048828125,
+            "distance": 557.143798828125
+          },
+          {
+            "x": 1082.3843994140625,
+            "right": 1602.3843994140625,
+            "distance": 62.3843994140625
+          }
+        ],
+        [
+          {
+            "x": 560,
+            "right": 958.796875,
+            "distance": 520.6015625
+          },
+          {
+            "x": 1601.1875,
+            "right": 2000,
+            "distance": 520.59375
+          },
+          {
+            "x": 1030.35986328125,
+            "right": 1550.35986328125,
+            "distance": 10.35986328125
+          }
+        ]
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "samples": [
+        [
+          {
+            "x": 203.45301818847656,
+            "right": 602.2498931884766,
+            "distance": 557.1485443115234
+          },
+          {
+            "x": 1317.7359619140625,
+            "right": 1716.5484619140625,
+            "distance": 557.1422119140625
+          },
+          {
+            "x": 762.3843994140625,
+            "right": 1282.3843994140625,
+            "distance": 62.3843994140625
+          }
+        ],
+        [
+          {
+            "x": 240,
+            "right": 638.796875,
+            "distance": 520.6015625
+          },
+          {
+            "x": 1281.1875,
+            "right": 1680,
+            "distance": 520.59375
+          },
+          {
+            "x": 710.3548583984375,
+            "right": 1230.3548583984375,
+            "distance": 10.3548583984375
+          }
+        ]
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "samples": [
+        [
+          {
+            "x": 26.22134780883789,
+            "right": 394.4557228088379,
+            "distance": 509.6614646911621
+          },
+          {
+            "x": 1045.530029296875,
+            "right": 1413.780029296875,
+            "distance": 509.655029296875
+          },
+          {
+            "x": 531.0787353515625,
+            "right": 1028.2193603515625,
+            "distance": 59.6490478515625
+          }
+        ],
+        [
+          {
+            "x": 59.96818542480469,
+            "right": 428.2025604248047,
+            "distance": 475.9146270751953
+          },
+          {
+            "x": 1011.7817993164062,
+            "right": 1380.03173828125,
+            "distance": 475.9067687988281
+          },
+          {
+            "x": 481.41619873046875,
+            "right": 978.5568237304688,
+            "distance": 9.98651123046875
+          }
+        ]
+      ]
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "samples": [
+        [
+          {
+            "x": 28.140485763549805,
+            "right": 375.6092357635498,
+            "distance": 481.1251392364502
+          },
+          {
+            "x": 990.3765869140625,
+            "right": 1337.8609619140625,
+            "distance": 481.1187744140625
+          },
+          {
+            "x": 504.7306213378906,
+            "right": 973.8399658203125,
+            "distance": 56.28529357910156
+          }
+        ],
+        [
+          {
+            "x": 60,
+            "right": 407.46875,
+            "distance": 449.265625
+          },
+          {
+            "x": 958.515625,
+            "right": 1306,
+            "distance": 449.2578125
+          },
+          {
+            "x": 457.79302978515625,
+            "right": 926.9024047851562,
+            "distance": 9.34771728515625
+          }
+        ]
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "samples": [
+        [
+          {
+            "x": 10.572952270507812,
+            "right": 276.9948272705078,
+            "distance": 368.2161102294922
+          },
+          {
+            "x": 746.990966796875,
+            "right": 1013.428466796875,
+            "distance": 368.209716796875
+          },
+          {
+            "x": 375.30499267578125,
+            "right": 735.0081176757812,
+            "distance": 43.15655517578125
+          }
+        ],
+        [
+          {
+            "x": 35,
+            "right": 301.421875,
+            "distance": 343.7890625
+          },
+          {
+            "x": 722.5625,
+            "right": 989,
+            "distance": 343.78125
+          },
+          {
+            "x": 339.318359375,
+            "right": 699.021484375,
+            "distance": 7.169921875
+          }
+        ]
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "samples": [
+        [
+          {
+            "x": 14.10919189453125,
+            "right": 340.10919189453125,
+            "distance": 206.89080810546875
+          },
+          {
+            "x": 427.89080810546875,
+            "right": 753.8908081054688,
+            "distance": 206.89080810546875
+          },
+          {
+            "x": 186.39999389648438,
+            "right": 706.3999938964844,
+            "distance": 62.399993896484375
+          }
+        ],
+        [
+          {
+            "x": 44,
+            "right": 370,
+            "distance": 177
+          },
+          {
+            "x": 398,
+            "right": 724,
+            "distance": 177
+          },
+          {
+            "x": 134.371337890625,
+            "right": 654.371337890625,
+            "distance": 10.371337890625
+          }
+        ]
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "samples": [
+        [
+          {
+            "x": 13.18332290649414,
+            "right": 199.18332290649414,
+            "distance": 108.81667709350586
+          },
+          {
+            "x": 230.81668090820312,
+            "right": 416.8166809082031,
+            "distance": 108.81668090820312
+          },
+          {
+            "x": 47.296875,
+            "right": 382.6875,
+            "distance": 0.0078125
+          }
+        ],
+        [
+          {
+            "x": 20,
+            "right": 206,
+            "distance": 102
+          },
+          {
+            "x": 224,
+            "right": 410,
+            "distance": 102
+          },
+          {
+            "x": 47.296875,
+            "right": 382.6875,
+            "distance": 0.0078125
+          }
+        ]
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "samples": [
+        [
+          {
+            "x": 13.915485382080078,
+            "right": 179.91548538208008,
+            "distance": 98.08451461791992
+          },
+          {
+            "x": 210.0845184326172,
+            "right": 376.08453369140625,
+            "distance": 98.08452606201172
+          },
+          {
+            "x": 44.5,
+            "right": 345.5,
+            "distance": 0
+          }
+        ],
+        [
+          {
+            "x": 20,
+            "right": 186,
+            "distance": 92
+          },
+          {
+            "x": 204,
+            "right": 370,
+            "distance": 92
+          },
+          {
+            "x": 44.5,
+            "right": 345.5,
+            "distance": 0
+          }
+        ]
+      ]
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "samples": [
+        [
+          {
+            "x": 14.187979698181152,
+            "right": 172.68797969818115,
+            "distance": 94.06202030181885
+          },
+          {
+            "x": 202.31202697753906,
+            "right": 360.81201171875,
+            "distance": 94.06201934814453
+          },
+          {
+            "x": 43.453125,
+            "right": 331.546875,
+            "distance": 0
+          }
+        ],
+        [
+          {
+            "x": 20,
+            "right": 178.5,
+            "distance": 88.25
+          },
+          {
+            "x": 196.5,
+            "right": 355,
+            "distance": 88.25
+          },
+          {
+            "x": 43.453125,
+            "right": 331.546875,
+            "distance": 0
+          }
+        ]
+      ]
+    },
+    {
+      "width": 360,
+      "height": 740,
+      "samples": [
+        [
+          {
+            "x": 14.45829963684082,
+            "right": 165.45829963684082,
+            "distance": 90.04170036315918
+          },
+          {
+            "x": 194.5417022705078,
+            "right": 345.54168701171875,
+            "distance": 90.04169464111328
+          },
+          {
+            "x": 42.40625,
+            "right": 317.59375,
+            "distance": 0
+          }
+        ],
+        [
+          {
+            "x": 19.995681762695312,
+            "right": 170.9956817626953,
+            "distance": 84.50431823730469
+          },
+          {
+            "x": 189.0043182373047,
+            "right": 340.00433349609375,
+            "distance": 84.50432586669922
+          },
+          {
+            "x": 42.40625,
+            "right": 317.59375,
+            "distance": 0
+          }
+        ]
+      ]
+    }
+  ],
+  "errors": []
+}

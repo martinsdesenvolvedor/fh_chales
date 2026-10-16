@@ -1,0 +1,76 @@
+{
+  "sections": [
+    {
+      "name": "about",
+      "width": 1920,
+      "height": 1080,
+      "rect": {
+        "x": 0,
+        "y": 225,
+        "width": 1920,
+        "height": 720
+      }
+    },
+    {
+      "name": "cta",
+      "width": 1920,
+      "height": 1080,
+      "rect": {
+        "x": 0,
+        "y": 242.53125,
+        "width": 1920,
+        "height": 684.515625
+      }
+    },
+    {
+      "name": "about",
+      "width": 1366,
+      "height": 768,
+      "rect": {
+        "x": 0,
+        "y": 138,
+        "width": 1366,
+        "height": 581.015625
+      }
+    },
+    {
+      "name": "cta",
+      "width": 1366,
+      "height": 768,
+      "rect": {
+        "x": 0,
+        "y": 108.84375,
+        "width": 1366,
+        "height": 640.171875
+      }
+    },
+    {
+      "name": "about",
+      "width": 390,
+      "height": 844,
+      "rect": {
+        "x": 0,
+        "y": 28,
+        "width": 390,
+        "height": 864.75
+      }
+    },
+    {
+      "name": "cta",
+      "width": 390,
+      "height": 844,
+      "rect": {
+        "x": 0,
+        "y": 112.703125,
+        "width": 390,
+        "height": 694.046875
+      }
+    }
+  ],
+  "hashes": {
+    "src/components/Hero.tsx": "b1c6c6935d4b8307402872f37553a5becf093c0c610dc16848626bfe88c5e901",
+    "src/components/MotionElements.tsx": "81ec36a80482d1d8e306f70af5a1804b5d38e3f5274521db9c6fcba7315e4a8b",
+    "src/pages/ContentPage.tsx": "a04c9d6182818c2947208c07cd18a8537b4972a31426ff1a1088ba4b6ee73409",
+    "src/components/EditorialSections.tsx": "e7b63f9f19a24d42233636c872123aa3306955478545e16be8002e3517a12c88"
+  }
+}

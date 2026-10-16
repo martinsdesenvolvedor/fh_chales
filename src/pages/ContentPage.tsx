@@ -1,13 +1,14 @@
 import React from 'react';
+import {HomeCollageCTA} from '../components/HomeCollageCTA';
 import {IMAGES,SERVICES,WORKS,TITLES,TEAM} from '../data/siteData';
 import {ProjectShowcase} from '../components/ProjectShowcase';
 import {ServicesSection} from '../components/ServicesSection';
 import {FAQ} from '../components/FAQ';
 import {ContactSection} from '../components/ContactSection';
 import {Reveal,Parallax,ScrollTitle,LinkButton} from '../components/MotionElements';
-import {StorySection,TeamSection,TeamProfile,BehindTheScenes,ProcessTimeline,CollageCTA,ProjectGallery} from '../components/EditorialSections';
+import {StorySection,TeamSection,TeamProfile,BehindTheScenes,ProcessTimeline,ProjectGallery} from '../components/EditorialSections';
 export function PageHero({title,image,eyebrow='FH Chalés'}:{title:string;image:string;eyebrow?:string}){return <section className="fh-page-hero"><Parallax src={image} pinned/><div className="fh-page-shade"/><div className="fh-shell"><Reveal><p className="fh-eyebrow">{eyebrow}</p><h1>{title}</h1><nav aria-label="Você está em"><a href="/">Início</a><span>/</span><span aria-current="page">{eyebrow==='FH Chalés'?title:eyebrow}</span></nav></Reveal></div></section>;}
-export function ClosingCTA(){return <CollageCTA/>;}
+export function ClosingCTA(){return <HomeCollageCTA/>;}
 
 export function ContentPage({path}:{path:string}){
 const work=WORKS.find(w=>'/projetos/'+w.id===path);const service=SERVICES.find(s=>'/servicos/'+s.id===path);

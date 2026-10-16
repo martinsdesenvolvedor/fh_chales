@@ -1,3 +1,5 @@
+> Ajuste mais recente: [Composição final da Home, fotografias animadas e navegação Início](COMPOSICAO-FINAL-HOME.md).
+
 > Atualização mais recente: [Refinamento premium, organização editorial e validação responsiva](REFINAMENTO-PREMIUM.md).
 
 # FH Chalés — refinamento e navegação
